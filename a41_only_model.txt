@@ -1,0 +1,2 @@
+Differential direct change: 0.290 pp (95% CI 0.193, 0.387)
+Interaction Wald chi-square(4)=526.44; P=1.28064e-112; dispersion=14.299

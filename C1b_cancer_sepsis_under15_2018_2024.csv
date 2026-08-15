@@ -1,0 +1,96 @@
+"Notes","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+,"2018","2018","Female","F",43,29778412,0.1,0.1,0.2,0.0,8.7%
+,"2018","2018","Male","M",31,31107032,0.1,0.1,0.1,0.0,6.3%
+"Total","2018","2018",,,74,60885444,0.1,0.1,0.2,0.0,15.0%
+,"2019","2019","Female","F",39,29620616,0.1,0.1,0.2,0.0,7.9%
+,"2019","2019","Male","M",32,30950230,0.1,0.1,0.1,0.0,6.5%
+"Total","2019","2019",,,71,60570846,0.1,0.1,0.1,0.0,14.4%
+,"2020","2020","Female","F",28,29490548,0.1,0.1,0.1,0.0,5.7%
+,"2020","2020","Male","M",35,30802878,0.1,0.1,0.2,0.0,7.1%
+"Total","2020","2020",,,63,60293426,0.1,0.1,0.1,0.0,12.8%
+,"2021","2021","Female","F",31,29577937,0.1,0.1,0.1,0.0,6.3%
+,"2021","2021","Male","M",43,30988733,0.1,0.1,0.2,0.0,8.7%
+"Total","2021","2021",,,74,60566670,0.1,0.1,0.2,0.0,15.0%
+,"2022","2022","Female","F",29,29028493,0.1,0.1,0.1,0.0,5.9%
+,"2022","2022","Male","M",33,30408894,0.1,0.1,0.2,0.0,6.7%
+"Total","2022","2022",,,62,59437387,0.1,0.1,0.1,0.0,12.6%
+,"2023","2023","Female","F",37,29066444,0.1,0.1,0.2,0.0,7.5%
+,"2023","2023","Male","M",44,30432037,0.1,0.1,0.2,0.0,8.9%
+"Total","2023","2023",,,81,59498481,0.1,0.1,0.2,0.0,16.4%
+,"2024 ","2024","Female","F",24,29176307,0.1,0.1,0.1,0.0,4.9%
+,"2024 ","2024","Male","M",44,30521833,0.1,0.1,0.2,0.0,8.9%
+"Total","2024 ","2024",,,68,59698140,0.1,0.1,0.1,0.0,13.8%
+"Total",,,,,493,420950394,0.1,0.1,0.1,0.0,100.0%
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: A40.0 (Septicaemia due to streptococcus, group A); A40.1 (Septicaemia due to streptococcus, group B); A40.2"
+"(Septicaemia due to streptococcus, group D); A40.3 (Septicaemia due to Streptococcus pneumoniae); A40.8 (Other streptococcal"
+"septicaemia); A40.9 (Streptococcal septicaemia, unspecified); A41.0 (Septicaemia due to Staphylococcus aureus); A41.1"
+"(Septicaemia due to other specified staphylococcus); A41.2 (Septicaemia due to unspecified staphylococcus); A41.3 (Septicaemia"
+"due to Haemophilus influenzae); A41.4 (Septicaemia due to anaerobes); A41.5 (Septicaemia due to other Gram-negative organisms);"
+"A41.8 (Other specified septicaemia); A41.9 (Septicaemia, unspecified)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years"
+"UCD - ICD-10 Codes: C00-C97 (Malignant neoplasms)"
+"Group By: Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Aug 13, 2026 3:48:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Aug 13, 2026 3:48:23 PM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Not Stated."
+"2. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"3. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Standard-Errors."
+"4. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"6. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"7. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."

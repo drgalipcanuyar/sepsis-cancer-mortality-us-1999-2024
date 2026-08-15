@@ -1,0 +1,776 @@
+"Notes","Year","Year Code","Ten-Year Age Groups","Ten-Year Age Groups Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+,"1999","1999","< 1 year","1","Female","F",0,1852123,Unreliable,0.0,0.0,0.0,0.0%
+,"1999","1999","< 1 year","1","Male","M",Suppressed,1943639,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"1999","1999","1-4 years","1-4","Female","F",Suppressed,7493614,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"1999","1999","1-4 years","1-4","Male","M",Suppressed,7846168,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"1999","1999","5-14 years","5-14","Female","F",16,19908282,Unreliable,0.0,0.1,0.0,0.0%
+,"1999","1999","5-14 years","5-14","Male","M",Suppressed,20911542,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"1999","1999","15-24 years","15-24","Female","F",15,18860184,Unreliable,0.0,0.1,0.0,0.0%
+,"1999","1999","15-24 years","15-24","Male","M",21,19815847,0.1,0.1,0.2,0.0,0.0%
+,"1999","1999","25-34 years","25-34","Female","F",51,19945090,0.3,0.2,0.3,0.0,0.0%
+,"1999","1999","25-34 years","25-34","Male","M",36,20233316,0.2,0.1,0.2,0.0,0.0%
+,"1999","1999","35-44 years","35-44","Female","F",250,22669604,1.1,1.0,1.2,0.1,0.1%
+,"1999","1999","35-44 years","35-44","Male","M",161,22407073,0.7,0.6,0.8,0.1,0.0%
+,"1999","1999","45-54 years","45-54","Female","F",584,18632305,3.1,2.9,3.4,0.1,0.2%
+,"1999","1999","45-54 years","45-54","Male","M",524,17945514,2.9,2.7,3.2,0.1,0.2%
+,"1999","1999","55-64 years","55-64","Female","F",958,12378763,7.7,7.2,8.2,0.3,0.3%
+,"1999","1999","55-64 years","55-64","Male","M",1169,11399263,10.3,9.7,10.8,0.3,0.4%
+,"1999","1999","65-74 years","65-74","Female","F",1534,10125424,15.1,14.4,15.9,0.4,0.5%
+,"1999","1999","65-74 years","65-74","Male","M",1885,8293485,22.7,21.7,23.8,0.5,0.6%
+,"1999","1999","75-84 years","75-84","Female","F",1492,7411198,20.1,19.1,21.2,0.5,0.5%
+,"1999","1999","75-84 years","75-84","Male","M",1726,4813716,35.9,34.2,37.5,0.9,0.5%
+,"1999","1999","85+ years","85+","Female","F",765,2960708,25.8,24.0,27.7,0.9,0.2%
+,"1999","1999","85+ years","85+","Male","M",670,1193310,56.1,51.9,60.4,2.2,0.2%
+,"1999","1999","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"1999","1999","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2000","2000","< 1 year","1","Female","F",Suppressed,1856631,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","< 1 year","1","Male","M",Suppressed,1949017,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","1-4 years","1-4","Female","F",Suppressed,7508434,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","1-4 years","1-4","Male","M",Suppressed,7861716,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","5-14 years","5-14","Female","F",Suppressed,20034103,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","5-14 years","5-14","Male","M",Suppressed,21043474,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2000","2000","15-24 years","15-24","Female","F",20,19105073,0.1,0.1,0.2,0.0,0.0%
+,"2000","2000","15-24 years","15-24","Male","M",22,20078818,0.1,0.1,0.2,0.0,0.0%
+,"2000","2000","25-34 years","25-34","Female","F",56,19771195,0.3,0.2,0.4,0.0,0.0%
+,"2000","2000","25-34 years","25-34","Male","M",37,20120529,0.2,0.1,0.3,0.0,0.0%
+,"2000","2000","35-44 years","35-44","Female","F",207,22700729,0.9,0.8,1.0,0.1,0.1%
+,"2000","2000","35-44 years","35-44","Male","M",140,22447798,0.6,0.5,0.7,0.1,0.0%
+,"2000","2000","45-54 years","45-54","Female","F",579,19180722,3.0,2.8,3.3,0.1,0.2%
+,"2000","2000","45-54 years","45-54","Male","M",486,18497230,2.6,2.4,2.9,0.1,0.1%
+,"2000","2000","55-64 years","55-64","Female","F",985,12629328,7.8,7.3,8.3,0.2,0.3%
+,"2000","2000","55-64 years","55-64","Male","M",1101,11645356,9.5,8.9,10.0,0.3,0.3%
+,"2000","2000","65-74 years","65-74","Female","F",1452,10087712,14.4,13.7,15.1,0.4,0.4%
+,"2000","2000","65-74 years","65-74","Male","M",1830,8303274,22.0,21.0,23.0,0.5,0.6%
+,"2000","2000","75-84 years","75-84","Female","F",1432,7481827,19.1,18.1,20.1,0.5,0.4%
+,"2000","2000","75-84 years","75-84","Male","M",1789,4879353,36.7,35.0,38.4,0.9,0.5%
+,"2000","2000","85+ years","85+","Female","F",713,3012589,23.7,21.9,25.4,0.9,0.2%
+,"2000","2000","85+ years","85+","Male","M",658,1226998,53.6,49.5,57.7,2.1,0.2%
+,"2000","2000","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2000","2000","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2001","2001","< 1 year","1","Female","F",Suppressed,1962905,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","< 1 year","1","Male","M",0,2049753,Unreliable,0.0,0.0,0.0,0.0%
+,"2001","2001","1-4 years","1-4","Female","F",Suppressed,7468536,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","1-4 years","1-4","Male","M",Suppressed,7817023,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","5-14 years","5-14","Female","F",Suppressed,20075767,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","5-14 years","5-14","Male","M",Suppressed,21076273,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","15-24 years","15-24","Female","F",Suppressed,19585847,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2001","2001","15-24 years","15-24","Male","M",24,20627723,0.1,0.1,0.2,0.0,0.0%
+,"2001","2001","25-34 years","25-34","Female","F",55,19567043,0.3,0.2,0.4,0.0,0.0%
+,"2001","2001","25-34 years","25-34","Male","M",37,19904479,0.2,0.1,0.3,0.0,0.0%
+,"2001","2001","35-44 years","35-44","Female","F",204,22642429,0.9,0.8,1.0,0.1,0.1%
+,"2001","2001","35-44 years","35-44","Male","M",153,22409323,0.7,0.6,0.8,0.1,0.0%
+,"2001","2001","45-54 years","45-54","Female","F",587,20047081,2.9,2.7,3.2,0.1,0.2%
+,"2001","2001","45-54 years","45-54","Male","M",527,19339187,2.7,2.5,3.0,0.1,0.2%
+,"2001","2001","55-64 years","55-64","Female","F",950,13043566,7.3,6.8,7.7,0.2,0.3%
+,"2001","2001","55-64 years","55-64","Male","M",1117,12061729,9.3,8.7,9.8,0.3,0.3%
+,"2001","2001","65-74 years","65-74","Female","F",1406,10043126,14.0,13.3,14.7,0.4,0.4%
+,"2001","2001","65-74 years","65-74","Male","M",1787,8341053,21.4,20.4,22.4,0.5,0.5%
+,"2001","2001","75-84 years","75-84","Female","F",1448,7589733,19.1,18.1,20.1,0.5,0.4%
+,"2001","2001","75-84 years","75-84","Male","M",1764,5003885,35.3,33.6,36.9,0.8,0.5%
+,"2001","2001","85+ years","85+","Female","F",749,3051430,24.5,22.8,26.3,0.9,0.2%
+,"2001","2001","85+ years","85+","Male","M",659,1261064,52.3,48.3,56.2,2.0,0.2%
+,"2001","2001","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2001","2001","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2002","2002","< 1 year","1","Female","F",0,1932939,Unreliable,0.0,0.0,0.0,0.0%
+,"2002","2002","< 1 year","1","Male","M",Suppressed,2018522,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2002","2002","1-4 years","1-4","Female","F",Suppressed,7564711,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2002","2002","1-4 years","1-4","Male","M",Suppressed,7913020,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2002","2002","5-14 years","5-14","Female","F",Suppressed,20071157,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2002","2002","5-14 years","5-14","Male","M",10,21062681,Unreliable,0.0,0.1,0.0,0.0%
+,"2002","2002","15-24 years","15-24","Female","F",13,19898124,Unreliable,0.0,0.1,0.0,0.0%
+,"2002","2002","15-24 years","15-24","Male","M",22,20956011,0.1,0.1,0.2,0.0,0.0%
+,"2002","2002","25-34 years","25-34","Female","F",54,19518779,0.3,0.2,0.4,0.0,0.0%
+,"2002","2002","25-34 years","25-34","Male","M",39,19830867,0.2,0.1,0.3,0.0,0.0%
+,"2002","2002","35-44 years","35-44","Female","F",195,22439455,0.9,0.7,1.0,0.1,0.1%
+,"2002","2002","35-44 years","35-44","Male","M",140,22201194,0.6,0.5,0.7,0.1,0.0%
+,"2002","2002","45-54 years","45-54","Female","F",589,20357603,2.9,2.7,3.1,0.1,0.2%
+,"2002","2002","45-54 years","45-54","Male","M",542,19634591,2.8,2.5,3.0,0.1,0.2%
+,"2002","2002","55-64 years","55-64","Female","F",993,13853658,7.2,6.7,7.6,0.2,0.3%
+,"2002","2002","55-64 years","55-64","Male","M",1117,12849674,8.7,8.2,9.2,0.3,0.3%
+,"2002","2002","65-74 years","65-74","Female","F",1451,10016658,14.5,13.7,15.2,0.4,0.4%
+,"2002","2002","65-74 years","65-74","Male","M",1755,8371877,21.0,20.0,21.9,0.5,0.5%
+,"2002","2002","75-84 years","75-84","Female","F",1474,7664104,19.2,18.3,20.2,0.5,0.4%
+,"2002","2002","75-84 years","75-84","Male","M",1783,5100760,35.0,33.3,36.6,0.8,0.5%
+,"2002","2002","85+ years","85+","Female","F",701,3077446,22.8,21.1,24.5,0.9,0.2%
+,"2002","2002","85+ years","85+","Male","M",653,1291362,50.6,46.7,54.4,2.0,0.2%
+,"2002","2002","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2002","2002","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2003","2003","< 1 year","1","Female","F",Suppressed,1942634,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2003","2003","< 1 year","1","Male","M",0,2033237,Unreliable,0.0,0.0,0.0,0.0%
+,"2003","2003","1-4 years","1-4","Female","F",Suppressed,7636693,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2003","2003","1-4 years","1-4","Male","M",Suppressed,7979882,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2003","2003","5-14 years","5-14","Female","F",Suppressed,20026122,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2003","2003","5-14 years","5-14","Male","M",11,21010082,Unreliable,0.0,0.1,0.0,0.0%
+,"2003","2003","15-24 years","15-24","Female","F",20,20180290,0.1,0.1,0.2,0.0,0.0%
+,"2003","2003","15-24 years","15-24","Male","M",20,21208564,0.1,0.1,0.1,0.0,0.0%
+,"2003","2003","25-34 years","25-34","Female","F",53,19500922,0.3,0.2,0.4,0.0,0.0%
+,"2003","2003","25-34 years","25-34","Male","M",43,19742873,0.2,0.2,0.3,0.0,0.0%
+,"2003","2003","35-44 years","35-44","Female","F",236,22206703,1.1,0.9,1.2,0.1,0.1%
+,"2003","2003","35-44 years","35-44","Male","M",147,21947503,0.7,0.6,0.8,0.1,0.0%
+,"2003","2003","45-54 years","45-54","Female","F",642,20776919,3.1,2.9,3.3,0.1,0.2%
+,"2003","2003","45-54 years","45-54","Male","M",529,20043035,2.6,2.4,2.9,0.1,0.2%
+,"2003","2003","55-64 years","55-64","Female","F",1027,14519419,7.1,6.6,7.5,0.2,0.3%
+,"2003","2003","55-64 years","55-64","Male","M",1155,13489526,8.6,8.1,9.1,0.3,0.4%
+,"2003","2003","65-74 years","65-74","Female","F",1412,10048202,14.1,13.3,14.8,0.4,0.4%
+,"2003","2003","65-74 years","65-74","Male","M",1741,8452713,20.6,19.6,21.6,0.5,0.5%
+,"2003","2003","75-84 years","75-84","Female","F",1529,7713157,19.8,18.8,20.8,0.5,0.5%
+,"2003","2003","75-84 years","75-84","Male","M",1846,5183281,35.6,34.0,37.2,0.8,0.6%
+,"2003","2003","85+ years","85+","Female","F",697,3127975,22.3,20.6,23.9,0.8,0.2%
+,"2003","2003","85+ years","85+","Male","M",658,1338201,49.2,45.4,52.9,1.9,0.2%
+,"2003","2003","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2003","2003","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2004","2004","< 1 year","1","Female","F",0,1962216,Unreliable,0.0,0.0,0.0,0.0%
+,"2004","2004","< 1 year","1","Male","M",Suppressed,2052042,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","1-4 years","1-4","Female","F",Suppressed,7713175,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","1-4 years","1-4","Male","M",Suppressed,8058452,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","5-14 years","5-14","Female","F",Suppressed,19946937,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","5-14 years","5-14","Male","M",Suppressed,20918980,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","15-24 years","15-24","Female","F",Suppressed,20433434,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2004","2004","15-24 years","15-24","Male","M",16,21514678,Unreliable,0.0,0.1,0.0,0.0%
+,"2004","2004","25-34 years","25-34","Female","F",59,19520225,0.3,0.2,0.4,0.0,0.0%
+,"2004","2004","25-34 years","25-34","Male","M",39,19746331,0.2,0.1,0.3,0.0,0.0%
+,"2004","2004","35-44 years","35-44","Female","F",203,22015734,0.9,0.8,1.0,0.1,0.1%
+,"2004","2004","35-44 years","35-44","Male","M",150,21784541,0.7,0.6,0.8,0.1,0.0%
+,"2004","2004","45-54 years","45-54","Female","F",613,21184129,2.9,2.7,3.1,0.1,0.2%
+,"2004","2004","45-54 years","45-54","Male","M",546,20445801,2.7,2.4,2.9,0.1,0.2%
+,"2004","2004","55-64 years","55-64","Female","F",1118,15185747,7.4,6.9,7.8,0.2,0.3%
+,"2004","2004","55-64 years","55-64","Male","M",1236,14119557,8.8,8.3,9.2,0.2,0.4%
+,"2004","2004","65-74 years","65-74","Female","F",1413,10110363,14.0,13.2,14.7,0.4,0.4%
+,"2004","2004","65-74 years","65-74","Male","M",1801,8557170,21.0,20.1,22.0,0.5,0.5%
+,"2004","2004","75-84 years","75-84","Female","F",1485,7738742,19.2,18.2,20.2,0.5,0.5%
+,"2004","2004","75-84 years","75-84","Male","M",1874,5251161,35.7,34.1,37.3,0.8,0.6%
+,"2004","2004","85+ years","85+","Female","F",693,3166584,21.9,20.3,23.5,0.8,0.2%
+,"2004","2004","85+ years","85+","Male","M",687,1379299,49.8,46.1,53.5,1.9,0.2%
+,"2004","2004","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2004","2004","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2005","2005","< 1 year","1","Female","F",0,1956682,Unreliable,0.0,0.0,0.0,0.0%
+,"2005","2005","< 1 year","1","Male","M",Suppressed,2047711,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2005","2005","1-4 years","1-4","Female","F",Suppressed,7785123,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2005","2005","1-4 years","1-4","Male","M",Suppressed,8127884,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2005","2005","5-14 years","5-14","Female","F",Suppressed,19822282,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2005","2005","5-14 years","5-14","Male","M",Suppressed,20779364,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2005","2005","15-24 years","15-24","Female","F",17,20657595,Unreliable,0.0,0.1,0.0,0.0%
+,"2005","2005","15-24 years","15-24","Male","M",17,21788574,Unreliable,0.0,0.1,0.0,0.0%
+,"2005","2005","25-34 years","25-34","Female","F",39,19547698,0.2,0.1,0.3,0.0,0.0%
+,"2005","2005","25-34 years","25-34","Male","M",39,19710949,0.2,0.1,0.3,0.0,0.0%
+,"2005","2005","35-44 years","35-44","Female","F",219,21865343,1.0,0.9,1.1,0.1,0.1%
+,"2005","2005","35-44 years","35-44","Male","M",152,21640195,0.7,0.6,0.8,0.1,0.0%
+,"2005","2005","45-54 years","45-54","Female","F",650,21614529,3.0,2.8,3.2,0.1,0.2%
+,"2005","2005","45-54 years","45-54","Male","M",563,20881375,2.7,2.5,2.9,0.1,0.2%
+,"2005","2005","55-64 years","55-64","Female","F",1215,15868410,7.7,7.2,8.1,0.2,0.4%
+,"2005","2005","55-64 years","55-64","Male","M",1372,14773087,9.3,8.8,9.8,0.3,0.4%
+,"2005","2005","65-74 years","65-74","Female","F",1503,10198569,14.7,14.0,15.5,0.4,0.5%
+,"2005","2005","65-74 years","65-74","Male","M",1861,8683128,21.4,20.5,22.4,0.5,0.6%
+,"2005","2005","75-84 years","75-84","Female","F",1553,7753835,20.0,19.0,21.0,0.5,0.5%
+,"2005","2005","75-84 years","75-84","Male","M",1999,5320967,37.6,35.9,39.2,0.8,0.6%
+,"2005","2005","85+ years","85+","Female","F",744,3249455,22.9,21.3,24.5,0.8,0.2%
+,"2005","2005","85+ years","85+","Male","M",712,1443844,49.3,45.7,52.9,1.8,0.2%
+,"2005","2005","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2005","2005","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2006","2006","< 1 year","1","Female","F",Suppressed,1975919,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","< 1 year","1","Male","M",Suppressed,2065819,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","1-4 years","1-4","Female","F",Suppressed,7775092,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","1-4 years","1-4","Male","M",Suppressed,8122053,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","5-14 years","5-14","Female","F",Suppressed,19817117,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","5-14 years","5-14","Male","M",Suppressed,20760709,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2006","2006","15-24 years","15-24","Female","F",17,20836077,Unreliable,0.0,0.1,0.0,0.0%
+,"2006","2006","15-24 years","15-24","Male","M",22,22007767,0.1,0.1,0.2,0.0,0.0%
+,"2006","2006","25-34 years","25-34","Female","F",46,19626340,0.2,0.2,0.3,0.0,0.0%
+,"2006","2006","25-34 years","25-34","Male","M",41,19768839,0.2,0.1,0.3,0.0,0.0%
+,"2006","2006","35-44 years","35-44","Female","F",199,21727611,0.9,0.8,1.0,0.1,0.1%
+,"2006","2006","35-44 years","35-44","Male","M",133,21516190,0.6,0.5,0.7,0.1,0.0%
+,"2006","2006","45-54 years","45-54","Female","F",652,22011575,3.0,2.7,3.2,0.1,0.2%
+,"2006","2006","45-54 years","45-54","Male","M",637,21274584,3.0,2.8,3.2,0.1,0.2%
+,"2006","2006","55-64 years","55-64","Female","F",1269,16532054,7.7,7.3,8.1,0.2,0.4%
+,"2006","2006","55-64 years","55-64","Male","M",1361,15398059,8.8,8.4,9.3,0.2,0.4%
+,"2006","2006","65-74 years","65-74","Female","F",1600,10350638,15.5,14.7,16.2,0.4,0.5%
+,"2006","2006","65-74 years","65-74","Male","M",1889,8852389,21.3,20.4,22.3,0.5,0.6%
+,"2006","2006","75-84 years","75-84","Female","F",1565,7732685,20.2,19.2,21.2,0.5,0.5%
+,"2006","2006","75-84 years","75-84","Male","M",1909,5362466,35.6,34.0,37.2,0.8,0.6%
+,"2006","2006","85+ years","85+","Female","F",735,3347539,22.0,20.4,23.5,0.8,0.2%
+,"2006","2006","85+ years","85+","Male","M",743,1518390,48.9,45.4,52.5,1.8,0.2%
+,"2006","2006","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2006","2006","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2007","2007","< 1 year","1","Female","F",Suppressed,2027181,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","< 1 year","1","Male","M",Suppressed,2120816,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","1-4 years","1-4","Female","F",Suppressed,7813088,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","1-4 years","1-4","Male","M",Suppressed,8164877,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","5-14 years","5-14","Female","F",Suppressed,19810765,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","5-14 years","5-14","Male","M",Suppressed,20744888,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2007","2007","15-24 years","15-24","Female","F",10,21001489,Unreliable,0.0,0.1,0.0,0.0%
+,"2007","2007","15-24 years","15-24","Male","M",24,22144326,0.1,0.1,0.2,0.0,0.0%
+,"2007","2007","25-34 years","25-34","Female","F",52,19788593,0.3,0.2,0.3,0.0,0.0%
+,"2007","2007","25-34 years","25-34","Male","M",43,19924870,0.2,0.2,0.3,0.0,0.0%
+,"2007","2007","35-44 years","35-44","Female","F",197,21502002,0.9,0.8,1.0,0.1,0.1%
+,"2007","2007","35-44 years","35-44","Male","M",145,21294228,0.7,0.6,0.8,0.1,0.0%
+,"2007","2007","45-54 years","45-54","Female","F",702,22337962,3.1,2.9,3.4,0.1,0.2%
+,"2007","2007","45-54 years","45-54","Male","M",594,21601977,2.7,2.5,3.0,0.1,0.2%
+,"2007","2007","55-64 years","55-64","Female","F",1264,17148671,7.4,7.0,7.8,0.2,0.4%
+,"2007","2007","55-64 years","55-64","Male","M",1460,15979763,9.1,8.7,9.6,0.2,0.4%
+,"2007","2007","65-74 years","65-74","Female","F",1558,10595802,14.7,14.0,15.4,0.4,0.5%
+,"2007","2007","65-74 years","65-74","Male","M",1938,9102925,21.3,20.3,22.2,0.5,0.6%
+,"2007","2007","75-84 years","75-84","Female","F",1497,7694491,19.5,18.5,20.4,0.5,0.5%
+,"2007","2007","75-84 years","75-84","Male","M",1933,5392948,35.8,34.2,37.4,0.8,0.6%
+,"2007","2007","85+ years","85+","Female","F",752,3446309,21.8,20.3,23.4,0.8,0.2%
+,"2007","2007","85+ years","85+","Male","M",779,1593236,48.9,45.5,52.3,1.8,0.2%
+,"2007","2007","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2007","2007","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2008","2008","< 1 year","1","Female","F",0,2022889,Unreliable,0.0,0.0,0.0,0.0%
+,"2008","2008","< 1 year","1","Male","M",0,2109846,Unreliable,0.0,0.0,0.0,0.0%
+,"2008","2008","1-4 years","1-4","Female","F",Suppressed,7891294,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","1-4 years","1-4","Male","M",Suppressed,8247098,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","5-14 years","5-14","Female","F",Suppressed,19856962,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","5-14 years","5-14","Male","M",Suppressed,20779295,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2008","2008","15-24 years","15-24","Female","F",15,21144714,Unreliable,0.0,0.1,0.0,0.0%
+,"2008","2008","15-24 years","15-24","Male","M",19,22246778,Unreliable,0.1,0.1,0.0,0.0%
+,"2008","2008","25-34 years","25-34","Female","F",43,20019411,0.2,0.2,0.3,0.0,0.0%
+,"2008","2008","25-34 years","25-34","Male","M",51,20188062,0.3,0.2,0.3,0.0,0.0%
+,"2008","2008","35-44 years","35-44","Female","F",218,21195733,1.0,0.9,1.2,0.1,0.1%
+,"2008","2008","35-44 years","35-44","Male","M",135,20996753,0.6,0.5,0.8,0.1,0.0%
+,"2008","2008","45-54 years","45-54","Female","F",706,22597536,3.1,2.9,3.4,0.1,0.2%
+,"2008","2008","45-54 years","45-54","Male","M",632,21862911,2.9,2.7,3.1,0.1,0.2%
+,"2008","2008","55-64 years","55-64","Female","F",1367,17681763,7.7,7.3,8.1,0.2,0.4%
+,"2008","2008","55-64 years","55-64","Male","M",1523,16475300,9.2,8.8,9.7,0.2,0.5%
+,"2008","2008","65-74 years","65-74","Female","F",1673,11004244,15.2,14.5,15.9,0.4,0.5%
+,"2008","2008","65-74 years","65-74","Male","M",1990,9501435,20.9,20.0,21.9,0.5,0.6%
+,"2008","2008","75-84 years","75-84","Female","F",1582,7656443,20.7,19.6,21.7,0.5,0.5%
+,"2008","2008","75-84 years","75-84","Male","M",1851,5419659,34.2,32.6,35.7,0.8,0.6%
+,"2008","2008","85+ years","85+","Female","F",771,3533026,21.8,20.3,23.4,0.8,0.2%
+,"2008","2008","85+ years","85+","Male","M",824,1662814,49.6,46.2,52.9,1.7,0.3%
+,"2008","2008","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2008","2008","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2009","2009","< 1 year","1","Female","F",0,1959169,Unreliable,0.0,0.0,0.0,0.0%
+,"2009","2009","< 1 year","1","Male","M",Suppressed,2044418,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2009","2009","1-4 years","1-4","Female","F",Suppressed,7943260,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2009","2009","1-4 years","1-4","Male","M",Suppressed,8297671,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2009","2009","5-14 years","5-14","Female","F",10,19963476,Unreliable,0.0,0.1,0.0,0.0%
+,"2009","2009","5-14 years","5-14","Male","M",Suppressed,20879587,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2009","2009","15-24 years","15-24","Female","F",15,21263984,Unreliable,0.0,0.1,0.0,0.0%
+,"2009","2009","15-24 years","15-24","Male","M",20,22312948,0.1,0.1,0.1,0.0,0.0%
+,"2009","2009","25-34 years","25-34","Female","F",44,20267430,0.2,0.2,0.3,0.0,0.0%
+,"2009","2009","25-34 years","25-34","Male","M",47,20455912,0.2,0.2,0.3,0.0,0.0%
+,"2009","2009","35-44 years","35-44","Female","F",218,20841610,1.0,0.9,1.2,0.1,0.1%
+,"2009","2009","35-44 years","35-44","Male","M",153,20646201,0.7,0.6,0.9,0.1,0.0%
+,"2009","2009","45-54 years","45-54","Female","F",733,22797854,3.2,3.0,3.4,0.1,0.2%
+,"2009","2009","45-54 years","45-54","Male","M",664,22069234,3.0,2.8,3.2,0.1,0.2%
+,"2009","2009","55-64 years","55-64","Female","F",1398,18329541,7.6,7.2,8.0,0.2,0.4%
+,"2009","2009","55-64 years","55-64","Male","M",1603,17076059,9.4,8.9,9.8,0.2,0.5%
+,"2009","2009","65-74 years","65-74","Female","F",1680,11375157,14.8,14.1,15.5,0.4,0.5%
+,"2009","2009","65-74 years","65-74","Male","M",2110,9857942,21.4,20.5,22.3,0.5,0.6%
+,"2009","2009","75-84 years","75-84","Female","F",1544,7590640,20.3,19.3,21.4,0.5,0.5%
+,"2009","2009","75-84 years","75-84","Male","M",1861,5432135,34.3,32.7,35.8,0.8,0.6%
+,"2009","2009","85+ years","85+","Female","F",719,3631954,19.8,18.3,21.2,0.7,0.2%
+,"2009","2009","85+ years","85+","Male","M",851,1735347,49.0,45.7,52.3,1.7,0.3%
+,"2009","2009","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2009","2009","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2010","2010","< 1 year","1","Female","F",0,1929877,Unreliable,0.0,0.0,0.0,0.0%
+,"2010","2010","< 1 year","1","Male","M",Suppressed,2014276,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","1-4 years","1-4","Female","F",Suppressed,7952058,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","1-4 years","1-4","Male","M",Suppressed,8305151,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","5-14 years","5-14","Female","F",Suppressed,20056351,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","5-14 years","5-14","Male","M",Suppressed,20969500,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","15-24 years","15-24","Female","F",Suppressed,21308500,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2010","2010","15-24 years","15-24","Male","M",31,22317842,0.1,0.1,0.2,0.0,0.0%
+,"2010","2010","25-34 years","25-34","Female","F",51,20431857,0.2,0.2,0.3,0.0,0.0%
+,"2010","2010","25-34 years","25-34","Male","M",58,20632091,0.3,0.2,0.4,0.0,0.0%
+,"2010","2010","35-44 years","35-44","Female","F",201,20634607,1.0,0.8,1.1,0.1,0.1%
+,"2010","2010","35-44 years","35-44","Male","M",139,20435999,0.7,0.6,0.8,0.1,0.0%
+,"2010","2010","45-54 years","45-54","Female","F",783,22864357,3.4,3.2,3.7,0.1,0.2%
+,"2010","2010","45-54 years","45-54","Male","M",654,22142359,3.0,2.7,3.2,0.1,0.2%
+,"2010","2010","55-64 years","55-64","Female","F",1468,18881581,7.8,7.4,8.2,0.2,0.4%
+,"2010","2010","55-64 years","55-64","Male","M",1689,17601148,9.6,9.1,10.1,0.2,0.5%
+,"2010","2010","65-74 years","65-74","Female","F",1813,11616910,15.6,14.9,16.3,0.4,0.6%
+,"2010","2010","65-74 years","65-74","Male","M",2136,10096519,21.2,20.3,22.1,0.5,0.6%
+,"2010","2010","75-84 years","75-84","Female","F",1549,7584360,20.4,19.4,21.4,0.5,0.5%
+,"2010","2010","75-84 years","75-84","Male","M",1963,5476762,35.8,34.3,37.4,0.8,0.6%
+,"2010","2010","85+ years","85+","Female","F",732,3703754,19.8,18.3,21.2,0.7,0.2%
+,"2010","2010","85+ years","85+","Male","M",921,1789679,51.5,48.1,54.8,1.7,0.3%
+,"2010","2010","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2010","2010","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2011","2011","< 1 year","1","Female","F",0,1952827,Unreliable,0.0,0.0,0.0,0.0%
+,"2011","2011","< 1 year","1","Male","M",0,2043710,Unreliable,0.0,0.0,0.0,0.0%
+,"2011","2011","1-4 years","1-4","Female","F",Suppressed,7909731,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2011","2011","1-4 years","1-4","Male","M",Suppressed,8255790,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2011","2011","5-14 years","5-14","Female","F",Suppressed,20067831,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2011","2011","5-14 years","5-14","Male","M",Suppressed,20971217,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2011","2011","15-24 years","15-24","Female","F",16,21366229,Unreliable,0.0,0.1,0.0,0.0%
+,"2011","2011","15-24 years","15-24","Male","M",26,22431646,0.1,0.1,0.2,0.0,0.0%
+,"2011","2011","25-34 years","25-34","Female","F",50,20746335,0.2,0.2,0.3,0.0,0.0%
+,"2011","2011","25-34 years","25-34","Male","M",43,21044163,0.2,0.1,0.3,0.0,0.0%
+,"2011","2011","35-44 years","35-44","Female","F",218,20404484,1.1,0.9,1.2,0.1,0.1%
+,"2011","2011","35-44 years","35-44","Male","M",153,20223470,0.8,0.6,0.9,0.1,0.0%
+,"2011","2011","45-54 years","45-54","Female","F",791,22698956,3.5,3.2,3.7,0.1,0.2%
+,"2011","2011","45-54 years","45-54","Male","M",667,22019247,3.0,2.8,3.3,0.1,0.2%
+,"2011","2011","55-64 years","55-64","Female","F",1547,19703935,7.9,7.5,8.2,0.2,0.5%
+,"2011","2011","55-64 years","55-64","Male","M",1723,18358205,9.4,8.9,9.8,0.2,0.5%
+,"2011","2011","65-74 years","65-74","Female","F",1921,12005425,16.0,15.3,16.7,0.4,0.6%
+,"2011","2011","65-74 years","65-74","Male","M",2155,10476313,20.6,19.7,21.4,0.4,0.7%
+,"2011","2011","75-84 years","75-84","Female","F",1470,7602197,19.3,18.3,20.3,0.5,0.4%
+,"2011","2011","75-84 years","75-84","Male","M",1915,5573033,34.4,32.8,35.9,0.8,0.6%
+,"2011","2011","85+ years","85+","Female","F",769,3843148,20.0,18.6,21.4,0.7,0.2%
+,"2011","2011","85+ years","85+","Male","M",852,1894025,45.0,42.0,48.0,1.5,0.3%
+,"2011","2011","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2011","2011","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2012","2012","< 1 year","1","Female","F",0,1926339,Unreliable,0.0,0.0,0.0,0.0%
+,"2012","2012","< 1 year","1","Male","M",0,2016738,Unreliable,0.0,0.0,0.0,0.0%
+,"2012","2012","1-4 years","1-4","Female","F",Suppressed,7856870,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2012","2012","1-4 years","1-4","Male","M",Suppressed,8199397,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2012","2012","5-14 years","5-14","Female","F",Suppressed,20118347,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2012","2012","5-14 years","5-14","Male","M",Suppressed,21026407,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2012","2012","15-24 years","15-24","Female","F",15,21431588,Unreliable,0.0,0.1,0.0,0.0%
+,"2012","2012","15-24 years","15-24","Male","M",23,22512317,0.1,0.1,0.2,0.0,0.0%
+,"2012","2012","25-34 years","25-34","Female","F",52,20970529,0.2,0.2,0.3,0.0,0.0%
+,"2012","2012","25-34 years","25-34","Male","M",50,21338792,0.2,0.2,0.3,0.0,0.0%
+,"2012","2012","35-44 years","35-44","Female","F",203,20342813,1.0,0.9,1.1,0.1,0.1%
+,"2012","2012","35-44 years","35-44","Male","M",152,20173607,0.8,0.6,0.9,0.1,0.0%
+,"2012","2012","45-54 years","45-54","Female","F",754,22461868,3.4,3.1,3.6,0.1,0.2%
+,"2012","2012","45-54 years","45-54","Male","M",682,21806870,3.1,2.9,3.4,0.1,0.2%
+,"2012","2012","55-64 years","55-64","Female","F",1613,19983308,8.1,7.7,8.5,0.2,0.5%
+,"2012","2012","55-64 years","55-64","Male","M",1824,18602894,9.8,9.4,10.3,0.2,0.6%
+,"2012","2012","65-74 years","65-74","Female","F",1914,12782530,15.0,14.3,15.6,0.3,0.6%
+,"2012","2012","65-74 years","65-74","Male","M",2341,11202862,20.9,20.0,21.7,0.4,0.7%
+,"2012","2012","75-84 years","75-84","Female","F",1485,7624484,19.5,18.5,20.5,0.5,0.5%
+,"2012","2012","75-84 years","75-84","Male","M",1962,5648150,34.7,33.2,36.3,0.8,0.6%
+,"2012","2012","85+ years","85+","Female","F",729,3923297,18.6,17.2,19.9,0.7,0.2%
+,"2012","2012","85+ years","85+","Male","M",924,1964033,47.0,44.0,50.1,1.5,0.3%
+,"2012","2012","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2012","2012","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2013","2013","< 1 year","1","Female","F",0,1925056,Unreliable,0.0,0.0,0.0,0.0%
+,"2013","2013","< 1 year","1","Male","M",0,2016727,Unreliable,0.0,0.0,0.0,0.0%
+,"2013","2013","1-4 years","1-4","Female","F",Suppressed,7790614,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2013","2013","1-4 years","1-4","Male","M",Suppressed,8135691,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2013","2013","5-14 years","5-14","Female","F",Suppressed,20159538,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2013","2013","5-14 years","5-14","Male","M",Suppressed,21061497,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2013","2013","15-24 years","15-24","Female","F",11,21429247,Unreliable,0.0,0.1,0.0,0.0%
+,"2013","2013","15-24 years","15-24","Male","M",20,22525155,0.1,0.1,0.1,0.0,0.0%
+,"2013","2013","25-34 years","25-34","Female","F",72,21203096,0.3,0.3,0.4,0.0,0.0%
+,"2013","2013","25-34 years","25-34","Male","M",51,21641491,0.2,0.2,0.3,0.0,0.0%
+,"2013","2013","35-44 years","35-44","Female","F",239,20307429,1.2,1.0,1.3,0.1,0.1%
+,"2013","2013","35-44 years","35-44","Male","M",151,20145261,0.7,0.6,0.9,0.1,0.0%
+,"2013","2013","45-54 years","45-54","Female","F",792,22198448,3.6,3.3,3.8,0.1,0.2%
+,"2013","2013","45-54 years","45-54","Male","M",610,21569084,2.8,2.6,3.1,0.1,0.2%
+,"2013","2013","55-64 years","55-64","Female","F",1633,20359676,8.0,7.6,8.4,0.2,0.5%
+,"2013","2013","55-64 years","55-64","Male","M",1905,18956755,10.0,9.6,10.5,0.2,0.6%
+,"2013","2013","65-74 years","65-74","Female","F",2023,13419124,15.1,14.4,15.7,0.3,0.6%
+,"2013","2013","65-74 years","65-74","Male","M",2521,11797642,21.4,20.5,22.2,0.4,0.8%
+,"2013","2013","75-84 years","75-84","Female","F",1568,7686002,20.4,19.4,21.4,0.5,0.5%
+,"2013","2013","75-84 years","75-84","Male","M",2000,5760517,34.7,33.2,36.2,0.8,0.6%
+,"2013","2013","85+ years","85+","Female","F",711,3999007,17.8,16.5,19.1,0.7,0.2%
+,"2013","2013","85+ years","85+","Male","M",893,2041782,43.7,40.9,46.6,1.5,0.3%
+,"2013","2013","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2013","2013","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2014","2014","< 1 year","1","Female","F",0,1930493,Unreliable,0.0,0.0,0.0,0.0%
+,"2014","2014","< 1 year","1","Male","M",Suppressed,2017857,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2014","2014","1-4 years","1-4","Female","F",Suppressed,7790662,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2014","2014","1-4 years","1-4","Male","M",Suppressed,8137871,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2014","2014","5-14 years","5-14","Female","F",Suppressed,20161424,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2014","2014","5-14 years","5-14","Male","M",Suppressed,21029648,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2014","2014","15-24 years","15-24","Female","F",19,21456371,Unreliable,0.1,0.1,0.0,0.0%
+,"2014","2014","15-24 years","15-24","Male","M",26,22523450,0.1,0.1,0.2,0.0,0.0%
+,"2014","2014","25-34 years","25-34","Female","F",67,21546290,0.3,0.2,0.4,0.0,0.0%
+,"2014","2014","25-34 years","25-34","Male","M",58,21970214,0.3,0.2,0.3,0.0,0.0%
+,"2014","2014","35-44 years","35-44","Female","F",232,20353904,1.1,1.0,1.3,0.1,0.1%
+,"2014","2014","35-44 years","35-44","Male","M",156,20159229,0.8,0.7,0.9,0.1,0.0%
+,"2014","2014","45-54 years","45-54","Female","F",804,22033807,3.6,3.4,3.9,0.1,0.2%
+,"2014","2014","45-54 years","45-54","Male","M",678,21425044,3.2,2.9,3.4,0.1,0.2%
+,"2014","2014","55-64 years","55-64","Female","F",1825,20755699,8.8,8.4,9.2,0.2,0.6%
+,"2014","2014","55-64 years","55-64","Male","M",2085,19321882,10.8,10.3,11.3,0.2,0.6%
+,"2014","2014","65-74 years","65-74","Female","F",2204,14049245,15.7,15.0,16.3,0.3,0.7%
+,"2014","2014","65-74 years","65-74","Male","M",2765,12349045,22.4,21.6,23.2,0.4,0.8%
+,"2014","2014","75-84 years","75-84","Female","F",1685,7789312,21.6,20.6,22.7,0.5,0.5%
+,"2014","2014","75-84 years","75-84","Male","M",2145,5893378,36.4,34.9,37.9,0.8,0.7%
+,"2014","2014","85+ years","85+","Female","F",786,4053362,19.4,18.0,20.7,0.7,0.2%
+,"2014","2014","85+ years","85+","Male","M",1001,2108869,47.5,44.5,50.4,1.5,0.3%
+,"2014","2014","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2014","2014","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2015","2015","< 1 year","1","Female","F",0,1942904,Unreliable,0.0,0.0,0.0,0.0%
+,"2015","2015","< 1 year","1","Male","M",Suppressed,2035134,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","1-4 years","1-4","Female","F",Suppressed,7786776,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","1-4 years","1-4","Male","M",Suppressed,8142467,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","5-14 years","5-14","Female","F",Suppressed,20129986,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","5-14 years","5-14","Male","M",Suppressed,20979520,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2015","2015","15-24 years","15-24","Female","F",14,21382495,Unreliable,0.0,0.1,0.0,0.0%
+,"2015","2015","15-24 years","15-24","Male","M",27,22465721,0.1,0.1,0.2,0.0,0.0%
+,"2015","2015","25-34 years","25-34","Female","F",87,21838064,0.4,0.3,0.5,0.0,0.0%
+,"2015","2015","25-34 years","25-34","Male","M",56,22299138,0.3,0.2,0.3,0.0,0.0%
+,"2015","2015","35-44 years","35-44","Female","F",265,20386206,1.3,1.1,1.5,0.1,0.1%
+,"2015","2015","35-44 years","35-44","Male","M",147,20203577,0.7,0.6,0.8,0.1,0.0%
+,"2015","2015","45-54 years","45-54","Female","F",860,21889385,3.9,3.7,4.2,0.1,0.3%
+,"2015","2015","45-54 years","45-54","Male","M",746,21298776,3.5,3.3,3.8,0.1,0.2%
+,"2015","2015","55-64 years","55-64","Female","F",2012,21163072,9.5,9.1,9.9,0.2,0.6%
+,"2015","2015","55-64 years","55-64","Male","M",2318,19714747,11.8,11.3,12.2,0.2,0.7%
+,"2015","2015","65-74 years","65-74","Female","F",2419,14658169,16.5,15.8,17.2,0.3,0.7%
+,"2015","2015","65-74 years","65-74","Male","M",2943,12892348,22.8,22.0,23.7,0.4,0.9%
+,"2015","2015","75-84 years","75-84","Female","F",1724,7899603,21.8,20.8,22.9,0.5,0.5%
+,"2015","2015","75-84 years","75-84","Male","M",2380,6023571,39.5,37.9,41.1,0.8,0.7%
+,"2015","2015","85+ years","85+","Female","F",851,4112863,20.7,19.3,22.1,0.7,0.3%
+,"2015","2015","85+ years","85+","Male","M",1077,2174298,49.5,46.6,52.5,1.5,0.3%
+,"2015","2015","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2015","2015","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2016","2016","< 1 year","1","Female","F",Suppressed,1939667,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","< 1 year","1","Male","M",Suppressed,2030478,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","1-4 years","1-4","Female","F",Suppressed,7800517,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","1-4 years","1-4","Male","M",Suppressed,8156375,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","5-14 years","5-14","Female","F",Suppressed,20099377,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","5-14 years","5-14","Male","M",Suppressed,20948655,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2016","2016","15-24 years","15-24","Female","F",14,21218116,Unreliable,0.0,0.1,0.0,0.0%
+,"2016","2016","15-24 years","15-24","Male","M",30,22292911,0.1,0.1,0.2,0.0,0.0%
+,"2016","2016","25-34 years","25-34","Female","F",86,22077505,0.4,0.3,0.5,0.0,0.0%
+,"2016","2016","25-34 years","25-34","Male","M",61,22599738,0.3,0.2,0.3,0.0,0.0%
+,"2016","2016","35-44 years","35-44","Female","F",266,20317393,1.3,1.2,1.5,0.1,0.1%
+,"2016","2016","35-44 years","35-44","Male","M",168,20152763,0.8,0.7,1.0,0.1,0.1%
+,"2016","2016","45-54 years","45-54","Female","F",887,21680540,4.1,3.8,4.4,0.1,0.3%
+,"2016","2016","45-54 years","45-54","Male","M",719,21106139,3.4,3.2,3.7,0.1,0.2%
+,"2016","2016","55-64 years","55-64","Female","F",2072,21464106,9.7,9.2,10.1,0.2,0.6%
+,"2016","2016","55-64 years","55-64","Male","M",2373,19999038,11.9,11.4,12.3,0.2,0.7%
+,"2016","2016","65-74 years","65-74","Female","F",2608,15239221,17.1,16.5,17.8,0.3,0.8%
+,"2016","2016","65-74 years","65-74","Male","M",3284,13391109,24.5,23.7,25.4,0.4,1.0%
+,"2016","2016","75-84 years","75-84","Female","F",1782,8056660,22.1,21.1,23.1,0.5,0.5%
+,"2016","2016","75-84 years","75-84","Male","M",2493,6176874,40.4,38.8,41.9,0.8,0.8%
+,"2016","2016","85+ years","85+","Female","F",886,4155488,21.3,19.9,22.7,0.7,0.3%
+,"2016","2016","85+ years","85+","Male","M",1101,2224843,49.5,46.6,52.4,1.5,0.3%
+,"2016","2016","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2016","2016","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2017","2017","< 1 year","1","Female","F",0,1924145,Unreliable,0.0,0.0,0.0,0.0%
+,"2017","2017","< 1 year","1","Male","M",Suppressed,2015150,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2017","2017","1-4 years","1-4","Female","F",0,7818747,Unreliable,0.0,0.0,0.0,0.0%
+,"2017","2017","1-4 years","1-4","Male","M",Suppressed,8180818,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2017","2017","5-14 years","5-14","Female","F",Suppressed,20109479,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2017","2017","5-14 years","5-14","Male","M",Suppressed,20973213,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2017","2017","15-24 years","15-24","Female","F",13,21100662,Unreliable,0.0,0.1,0.0,0.0%
+,"2017","2017","15-24 years","15-24","Male","M",19,22149633,Unreliable,0.1,0.1,0.0,0.0%
+,"2017","2017","25-34 years","25-34","Female","F",79,22351311,0.4,0.3,0.4,0.0,0.0%
+,"2017","2017","25-34 years","25-34","Male","M",63,22991361,0.3,0.2,0.4,0.0,0.0%
+,"2017","2017","35-44 years","35-44","Female","F",303,20506270,1.5,1.3,1.6,0.1,0.1%
+,"2017","2017","35-44 years","35-44","Male","M",207,20369100,1.0,0.9,1.2,0.1,0.1%
+,"2017","2017","45-54 years","45-54","Female","F",915,21468595,4.3,4.0,4.5,0.1,0.3%
+,"2017","2017","45-54 years","45-54","Male","M",740,20906357,3.5,3.3,3.8,0.1,0.2%
+,"2017","2017","55-64 years","55-64","Female","F",2262,21737855,10.4,10.0,10.8,0.2,0.7%
+,"2017","2017","55-64 years","55-64","Male","M",2473,20257803,12.2,11.7,12.7,0.2,0.8%
+,"2017","2017","65-74 years","65-74","Female","F",2833,15806306,17.9,17.3,18.6,0.3,0.9%
+,"2017","2017","65-74 years","65-74","Male","M",3487,13877140,25.1,24.3,26.0,0.4,1.1%
+,"2017","2017","75-84 years","75-84","Female","F",1911,8298676,23.0,22.0,24.1,0.5,0.6%
+,"2017","2017","75-84 years","75-84","Male","M",2569,6407875,40.1,38.5,41.6,0.8,0.8%
+,"2017","2017","85+ years","85+","Female","F",910,4189013,21.7,20.3,23.1,0.7,0.3%
+,"2017","2017","85+ years","85+","Male","M",1139,2279669,50.0,47.1,52.9,1.5,0.3%
+,"2017","2017","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2017","2017","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2018","2018","< 1 year","1","Female","F",Suppressed,1879703,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2018","2018","< 1 year","1","Male","M",Suppressed,1968505,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2018","2018","1-4 years","1-4","Female","F",Suppressed,7798370,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2018","2018","1-4 years","1-4","Male","M",Suppressed,8163697,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2018","2018","5-14 years","5-14","Female","F",Suppressed,20100339,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2018","2018","5-14 years","5-14","Male","M",Suppressed,20974830,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2018","2018","15-24 years","15-24","Female","F",14,20994345,Unreliable,0.0,0.1,0.0,0.0%
+,"2018","2018","15-24 years","15-24","Male","M",18,21976455,Unreliable,0.0,0.1,0.0,0.0%
+,"2018","2018","25-34 years","25-34","Female","F",82,22487065,0.4,0.3,0.5,0.0,0.0%
+,"2018","2018","25-34 years","25-34","Male","M",69,23210709,0.3,0.2,0.4,0.0,0.0%
+,"2018","2018","35-44 years","35-44","Female","F",300,20690288,1.4,1.3,1.6,0.1,0.1%
+,"2018","2018","35-44 years","35-44","Male","M",179,20587600,0.9,0.7,1.0,0.1,0.1%
+,"2018","2018","45-54 years","45-54","Female","F",929,21090497,4.4,4.1,4.7,0.1,0.3%
+,"2018","2018","45-54 years","45-54","Male","M",802,20541202,3.9,3.6,4.2,0.1,0.2%
+,"2018","2018","55-64 years","55-64","Female","F",2327,21873773,10.6,10.2,11.1,0.2,0.7%
+,"2018","2018","55-64 years","55-64","Male","M",2487,20398863,12.2,11.7,12.7,0.2,0.8%
+,"2018","2018","65-74 years","65-74","Female","F",2924,16246231,18.0,17.3,18.7,0.3,0.9%
+,"2018","2018","65-74 years","65-74","Male","M",3426,14246085,24.0,23.2,24.9,0.4,1.0%
+,"2018","2018","75-84 years","75-84","Female","F",2021,8659334,23.3,22.3,24.4,0.5,0.6%
+,"2018","2018","75-84 years","75-84","Male","M",2663,6735040,39.5,38.0,41.0,0.8,0.8%
+,"2018","2018","85+ years","85+","Female","F",890,4218810,21.1,19.7,22.5,0.7,0.3%
+,"2018","2018","85+ years","85+","Male","M",1207,2325693,51.9,49.0,54.8,1.5,0.4%
+,"2018","2018","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2018","2018","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2019","2019","< 1 year","1","Female","F",Suppressed,1847935,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","< 1 year","1","Male","M",Suppressed,1935117,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","1-4 years","1-4","Female","F",Suppressed,7719541,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","1-4 years","1-4","Male","M",Suppressed,8074090,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","5-14 years","5-14","Female","F",Suppressed,20053140,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","5-14 years","5-14","Male","M",Suppressed,20941023,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2019","2019","15-24 years","15-24","Female","F",16,20877151,Unreliable,0.0,0.1,0.0,0.0%
+,"2019","2019","15-24 years","15-24","Male","M",23,21810359,0.1,0.1,0.2,0.0,0.0%
+,"2019","2019","25-34 years","25-34","Female","F",96,22581141,0.4,0.3,0.5,0.0,0.0%
+,"2019","2019","25-34 years","25-34","Male","M",67,23359180,0.3,0.2,0.4,0.0,0.0%
+,"2019","2019","35-44 years","35-44","Female","F",300,20867064,1.4,1.3,1.6,0.1,0.1%
+,"2019","2019","35-44 years","35-44","Male","M",203,20792080,1.0,0.8,1.1,0.1,0.1%
+,"2019","2019","45-54 years","45-54","Female","F",920,20702936,4.4,4.2,4.7,0.1,0.3%
+,"2019","2019","45-54 years","45-54","Male","M",709,20171966,3.5,3.3,3.8,0.1,0.2%
+,"2019","2019","55-64 years","55-64","Female","F",2242,21949318,10.2,9.8,10.6,0.2,0.7%
+,"2019","2019","55-64 years","55-64","Male","M",2427,20499219,11.8,11.4,12.3,0.2,0.7%
+,"2019","2019","65-74 years","65-74","Female","F",2978,16783854,17.7,17.1,18.4,0.3,0.9%
+,"2019","2019","65-74 years","65-74","Male","M",3637,14699579,24.7,23.9,25.5,0.4,1.1%
+,"2019","2019","75-84 years","75-84","Female","F",2050,8971649,22.8,21.9,23.8,0.5,0.6%
+,"2019","2019","75-84 years","75-84","Male","M",2874,6998223,41.1,39.6,42.6,0.8,0.9%
+,"2019","2019","85+ years","85+","Female","F",938,4228470,22.2,20.8,23.6,0.7,0.3%
+,"2019","2019","85+ years","85+","Male","M",1191,2376488,50.1,47.3,53.0,1.5,0.4%
+,"2019","2019","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2019","2019","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2020","2020","< 1 year","1","Female","F",Suppressed,1826869,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","< 1 year","1","Male","M",Suppressed,1908141,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","1-4 years","1-4","Female","F",Suppressed,7613266,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","1-4 years","1-4","Male","M",Suppressed,7953016,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","5-14 years","5-14","Female","F",Suppressed,20050413,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","5-14 years","5-14","Male","M",Suppressed,20941721,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"2020","2020","15-24 years","15-24","Female","F",21,20828241,0.1,0.1,0.2,0.0,0.0%
+,"2020","2020","15-24 years","15-24","Male","M",12,21727443,Unreliable,0.0,0.1,0.0,0.0%
+,"2020","2020","25-34 years","25-34","Female","F",74,22625267,0.3,0.3,0.4,0.0,0.0%
+,"2020","2020","25-34 years","25-34","Male","M",66,23444379,0.3,0.2,0.4,0.0,0.0%
+,"2020","2020","35-44 years","35-44","Female","F",311,21090324,1.5,1.3,1.6,0.1,0.1%
+,"2020","2020","35-44 years","35-44","Male","M",221,21045868,1.1,0.9,1.2,0.1,0.1%
+,"2020","2020","45-54 years","45-54","Female","F",911,20441441,4.5,4.2,4.7,0.1,0.3%
+,"2020","2020","45-54 years","45-54","Male","M",666,19924692,3.3,3.1,3.6,0.1,0.2%
+,"2020","2020","55-64 years","55-64","Female","F",2309,21914243,10.5,10.1,11.0,0.2,0.7%
+,"2020","2020","55-64 years","55-64","Male","M",2412,20489434,11.8,11.3,12.2,0.2,0.7%
+,"2020","2020","65-74 years","65-74","Female","F",3057,17365858,17.6,17.0,18.2,0.3,0.9%
+,"2020","2020","65-74 years","65-74","Male","M",3734,15183540,24.6,23.8,25.4,0.4,1.1%
+,"2020","2020","75-84 years","75-84","Female","F",2082,9228272,22.6,21.6,23.5,0.5,0.6%
+,"2020","2020","75-84 years","75-84","Male","M",2844,7223275,39.4,37.9,40.8,0.7,0.9%
+,"2020","2020","85+ years","85+","Female","F",761,4243727,17.9,16.7,19.2,0.7,0.2%
+,"2020","2020","85+ years","85+","Male","M",1178,2414693,48.8,46.0,51.6,1.4,0.4%
+,"2020","2020","Not Stated","NS","Female","F",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+,"2020","2020","Not Stated","NS","Male","M",0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: A40.0 (Septicaemia due to streptococcus, group A); A40.1 (Septicaemia due to streptococcus, group B); A40.2"
+"(Septicaemia due to streptococcus, group D); A40.3 (Septicaemia due to Streptococcus pneumoniae); A40.8 (Other streptococcal"
+"septicaemia); A40.9 (Streptococcal septicaemia, unspecified); A41.0 (Septicaemia due to Staphylococcus aureus); A41.1"
+"(Septicaemia due to other specified staphylococcus); A41.2 (Septicaemia due to unspecified staphylococcus); A41.3 (Septicaemia"
+"due to Haemophilus influenzae); A41.4 (Septicaemia due to anaerobes); A41.5 (Septicaemia due to other Gram-negative organisms);"
+"A41.8 (Other specified septicaemia); A41.9 (Septicaemia, unspecified)"
+"UCD - ICD-10 Codes: C00.0 (External upper lip - Malignant neoplasms); C00.1 (External lower lip - Malignant neoplasms); C00.2"
+"(External lip, unspecified - Malignant neoplasms); C00.3 (Upper lip, inner aspect - Malignant neoplasms); C00.4 (Lower lip,"
+"inner aspect - Malignant neoplasms); C00.5 (Lip, unspecified, inner aspect - Malignant neoplasms); C00.6 (Commissure of lip -"
+"Malignant neoplasms); C00.8 (Overlapping lesion of lip - Malignant neoplasms); C00.9 (Lip, unspecified - Malignant neoplasms);"
+"C01 (Malignant neoplasm of base of tongue); C02.0 (Dorsal surface of tongue - Malignant neoplasms); C02.1 (Border of tongue -"
+"Malignant neoplasms); C02.2 (Ventral surface of tongue - Malignant neoplasms); C02.3 (Anterior two-thirds of tongue, part"
+"unspecified - Malignant neoplasms); C02.4 (Lingual tonsil - Malignant neoplasms); C02.8 (Overlapping lesion of tongue -"
+"Malignant neoplasms); C02.9 (Tongue, unspecified - Malignant neoplasms); C03.0 (Upper gum - Malignant neoplasms); C03.1 (Lower"
+"gum - Malignant neoplasms); C03.9 (Gum, unspecified - Malignant neoplasms); C04.0 (Anterior floor of mouth - Malignant"
+"neoplasms); C04.1 (Lateral floor of mouth - Malignant neoplasms); C04.8 (Overlapping lesion of floor of mouth - Malignant"
+"neoplasms); C04.9 (Floor of mouth, unspecified - Malignant neoplasms); C05.0 (Hard palate - Malignant neoplasms); C05.1 (Soft"
+"palate - Malignant neoplasms); C05.2 (Uvula - Malignant neoplasms); C05.8 (Overlapping lesion of palate - Malignant neoplasms);"
+"C05.9 (Palate, unspecified - Malignant neoplasms); C06.0 (Cheek mucosa - Malignant neoplasms); C06.1 (Vestibule of mouth -"
+"Malignant neoplasms); C06.2 (Retromolar area - Malignant neoplasms); C06.8 (Overlapping lesion of other and unspecified parts of"
+"mouth - Malignant neoplasms); C06.9 (Mouth, unspecified - Malignant neoplasms); C07 (Malignant neoplasm of parotid gland); C08.0"
+"(Submandibular gland - Malignant neoplasms); C08.1 (Sublingual gland - Malignant neoplasms); C08.8 (Overlapping lesion of major"
+"salivary glands - Malignant neoplasms); C08.9 (Major salivary gland, unspecified - Malignant neoplasms); C09.0 (Tonsillar fossa"
+"- Malignant neoplasms); C09.1 (Tonsillar pillar (anterior)(posterior) - Malignant neoplasms); C09.8 (Overlapping lesion of"
+"tonsil - Malignant neoplasms); C09.9 (Tonsil, unspecified - Malignant neoplasms); C10.0 (Vallecula - Malignant neoplasms); C10.1"
+"(Anterior surface of epiglottis - Malignant neoplasms); C10.2 (Lateral wall of oropharynx - Malignant neoplasms); C10.3"
+"(Posterior wall of oropharynx - Malignant neoplasms); C10.4 (Branchial cleft - Malignant neoplasms); C10.8 (Overlapping lesion"
+"of oropharynx - Malignant neoplasms); C10.9 (Oropharynx, unspecified - Malignant neoplasms); C11.0 (Superior wall of nasopharynx"
+"- Malignant neoplasms); C11.1 (Posterior wall of nasopharynx - Malignant neoplasms); C11.2 (Lateral wall of nasopharynx -"
+"Malignant neoplasms); C11.3 (Anterior wall of nasopharynx - Malignant neoplasms); C11.8 (Overlapping lesion of nasopharynx -"
+"Malignant neoplasms); C11.9 (Nasopharynx, unspecified - Malignant neoplasms); C12 (Malignant neoplasm of pyriform sinus); C13.0"
+"(Postcricoid region - Malignant neoplasms); C13.1 (Aryepiglottic fold, hypopharyngeal aspect - Malignant neoplasms); C13.2"
+"(Posterior wall of hypopharynx - Malignant neoplasms); C13.8 (Overlapping lesion of hypopharynx - Malignant neoplasms); C13.9"
+"(Hypopharynx, unspecified - Malignant neoplasms); C14.0 (Pharynx, unspecified - Malignant neoplasms); C14.2 (Malignant neoplasm"
+"of Waldeyer ring); C14.8 (Overlapping lesion of lip, oral cavity and pharynx - Malignant neoplasms); C15.0 (Cervical part of"
+"oesophagus - Malignant neoplasms); C15.1 (Thoracic part of oesophagus - Malignant neoplasms); C15.2 (Abdominal part of"
+"oesophagus - Malignant neoplasms); C15.3 (Upper third of oesophagus - Malignant neoplasms); C15.4 (Middle third of oesophagus -"
+"Malignant neoplasms); C15.5 (Lower third of oesophagus - Malignant neoplasms); C15.8 (Overlapping lesion of oesophagus -"
+"Malignant neoplasms); C15.9 (Oesophagus, unspecified - Malignant neoplasms); C16.0 (Cardia - Malignant neoplasms); C16.1 (Fundus"
+"of stomach - Malignant neoplasms); C16.2 (Body of stomach - Malignant neoplasms); C16.3 (Pyloric antrum - Malignant neoplasms);"
+"C16.4 (Pylorus - Malignant neoplasms); C16.5 (Lesser curvature of stomach, unspecified - Malignant neoplasms); C16.6 (Greater"
+"curvature of stomach, unspecified - Malignant neoplasms); C16.8 (Overlapping lesion of stomach - Malignant neoplasms); C16.9"
+"(Stomach, unspecified - Malignant neoplasms); C17.0 (Duodenum - Malignant neoplasms); C17.1 (Jejunum - Malignant neoplasms);"
+"C17.2 (Ileum - Malignant neoplasms); C17.3 (Malignant neoplasm of Meckel diverticulum); C17.8 (Overlapping lesion of small"
+"intestine - Malignant neoplasms); C17.9 (Small intestine, unspecified - Malignant neoplasms); C18.0 (Caecum - Malignant"
+"neoplasms); C18.1 (Appendix - Malignant neoplasms); C18.2 (Ascending colon - Malignant neoplasms); C18.3 (Hepatic flexure -"
+"Malignant neoplasms); C18.4 (Transverse colon - Malignant neoplasms); C18.5 (Splenic flexure - Malignant neoplasms); C18.6"
+"(Descending colon - Malignant neoplasms); C18.7 (Sigmoid colon - Malignant neoplasms); C18.8 (Overlapping lesion of colon -"
+"Malignant neoplasms); C18.9 (Colon, unspecified - Malignant neoplasms); C19 (Malignant neoplasm of rectosigmoid junction); C20"
+"(Malignant neoplasm of rectum); C21.0 (Anus, unspecified - Malignant neoplasms); C21.1 (Anal canal - Malignant neoplasms); C21.2"
+"(Cloacogenic zone - Malignant neoplasms); C21.8 (Overlapping lesion of rectum, anus and anal canal - Malignant neoplasms); C22.0"
+"(Liver cell carcinoma - Malignant neoplasms); C22.1 (Intrahepatic bile duct carcinoma - Malignant neoplasms); C22.2"
+"(Hepatoblastoma - Malignant neoplasms); C22.3 (Angiosarcoma of liver - Malignant neoplasms); C22.4 (Other sarcomas of liver -"
+"Malignant neoplasms); C22.7 (Other specified carcinomas of liver - Malignant neoplasms); C22.9 (Liver, unspecified - Malignant"
+"neoplasms); C23 (Malignant neoplasm of gallbladder); C24.0 (Extrahepatic bile duct - Malignant neoplasms); C24.1 (Ampulla of"
+"Vater - Malignant neoplasms); C24.8 (Overlapping lesion of biliary tract - Malignant neoplasms); C24.9 (Biliary tract,"
+"unspecified - Malignant neoplasms); C25.0 (Head of pancreas - Malignant neoplasms); C25.1 (Body of pancreas - Malignant"
+"neoplasms); C25.2 (Tail of pancreas - Malignant neoplasms); C25.3 (Pancreatic duct - Malignant neoplasms); C25.4 (Endocrine"
+"pancreas - Malignant neoplasms); C25.7 (Other parts of pancreas - Malignant neoplasms); C25.8 (Overlapping lesion of pancreas -"
+"Malignant neoplasms); C25.9 (Pancreas, unspecified - Malignant neoplasms); C26.0 (Intestinal tract, part unspecified - Malignant"
+"neoplasms); C26.1 (Spleen - Malignant neoplasms); C26.8 (Overlapping lesion of digestive system - Malignant neoplasms); C26.9"
+"(Ill-defined sites within the digestive system - Malignant neoplasms); C30.0 (Nasal cavity - Malignant neoplasms); C30.1 (Middle"
+"ear - Malignant neoplasms); C31.0 (Maxillary sinus - Malignant neoplasms); C31.1 (Ethmoidal sinus - Malignant neoplasms); C31.2"
+"(Frontal sinus - Malignant neoplasms); C31.3 (Sphenoidal sinus - Malignant neoplasms); C31.8 (Overlapping lesion of accessory"
+"sinuses - Malignant neoplasms); C31.9 (Accessory sinus, unspecified - Malignant neoplasms); C32.0 (Glottis - Malignant"
+"neoplasms); C32.1 (Supraglottis - Malignant neoplasms); C32.2 (Subglottis - Malignant neoplasms); C32.3 (Laryngeal cartilage -"
+"Malignant neoplasms); C32.8 (Overlapping lesion of larynx - Malignant neoplasms); C32.9 (Larynx, unspecified - Malignant"
+"neoplasms); C33 (Malignant neoplasm of trachea); C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or"
+"lung - Malignant neoplasms); C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung -"
+"Malignant neoplasms); C34.8 (Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung,"
+"unspecified - Malignant neoplasms); C37 (Malignant neoplasm of thymus); C38.0 (Heart - Malignant neoplasms); C38.1 (Anterior"
+"mediastinum - Malignant neoplasms); C38.2 (Posterior mediastinum - Malignant neoplasms); C38.3 (Mediastinum, part unspecified -"
+"Malignant neoplasms); C38.4 (Pleura - Malignant neoplasms); C38.8 (Overlapping lesion of heart, mediastinum and pleura -"
+"Malignant neoplasms); C39.0 (Upper respiratory tract, part unspecified - Malignant neoplasms); C39.8 (Overlapping lesion of"
+"respiratory and intrathoracic organs - Malignant neoplasms); C39.9 (Ill-defined sites within the respiratory system - Malignant"
+"neoplasms); C40.0 (Scapula and long bones of upper limb - Malignant neoplasms); C40.1 (Short bones of upper limb - Malignant"
+"neoplasms); C40.2 (Long bones of lower limb - Malignant neoplasms); C40.3 (Short bones of lower limb - Malignant neoplasms);"
+"C40.8 (Overlapping lesion of bone and articular cartilage of limbs - Malignant neoplasms); C40.9 (Bone and articular cartilage"
+"of limb, unspecified - Malignant neoplasms); C41.0 (Bones of skull and face - Malignant neoplasms); C41.1 (Mandible - Malignant"
+"neoplasms); C41.2 (Vertebral column - Malignant neoplasms); C41.3 (Ribs, sternum and clavicle - Malignant neoplasms); C41.4"
+"(Pelvic bones, sacrum and coccyx - Malignant neoplasms); C41.8 (Overlapping lesion of bone and articular cartilage - Malignant"
+"neoplasms); C41.9 (Bone and articular cartilage, unspecified - Malignant neoplasms); C43.0 (Malignant melanoma of lip -"
+"Malignant neoplasms); C43.1 (Malignant melanoma of eyelid, including canthus - Malignant neoplasms); C43.2 (Malignant melanoma"
+"of ear and external auricular canal - Malignant neoplasms); C43.3 (Malignant melanoma of other and unspecified parts of face -"
+"Malignant neoplasms); C43.4 (Malignant melanoma of scalp and neck - Malignant neoplasms); C43.5 (Malignant melanoma of trunk -"
+"Malignant neoplasms); C43.6 (Malignant melanoma of upper limb, including shoulder - Malignant neoplasms); C43.7 (Malignant"
+"melanoma of lower limb, including hip - Malignant neoplasms); C43.8 (Overlapping malignant melanoma of skin - Malignant"
+"neoplasms); C43.9 (Malignant melanoma of skin, unspecified - Malignant neoplasms); C44.0 (Skin of lip - Malignant neoplasms);"
+"C44.1 (Skin of eyelid, including canthus - Malignant neoplasms); C44.2 (Skin of ear and external auricular canal - Malignant"
+"neoplasms); C44.3 (Skin of other and unspecified parts of face - Malignant neoplasms); C44.4 (Skin of scalp and neck - Malignant"
+"neoplasms); C44.5 (Skin of trunk - Malignant neoplasms); C44.6 (Skin of upper limb, including shoulder - Malignant neoplasms);"
+"C44.7 (Skin of lower limb, including hip - Malignant neoplasms); C44.8 (Overlapping lesion of skin - Malignant neoplasms); C44.9"
+"(Malignant neoplasm of skin, unspecified - Malignant neoplasms); C45.0 (Mesothelioma of pleura - Malignant neoplasms); C45.1"
+"(Mesothelioma of peritoneum - Malignant neoplasms); C45.2 (Mesothelioma of pericardium - Malignant neoplasms); C45.7"
+"(Mesothelioma of other sites - Malignant neoplasms); C45.9 (Mesothelioma, unspecified - Malignant neoplasms); C46.0 (Kaposi"
+"sarcoma of skin); C46.1 (Kaposi sarcoma of soft tissue); C46.2 (Kaposi sarcoma of palate); C46.3 (Kaposi sarcoma of lymph"
+"nodes); C46.7 (Kaposi sarcoma of other sites); C46.8 (Kaposi sarcoma of multiple organs); C46.9 (Kaposi sarcoma, unspecified);"
+"C47.0 (Peripheral nerves of head, face and neck - Malignant neoplasms); C47.1 (Peripheral nerves of upper limb, including"
+"shoulder - Malignant neoplasms); C47.2 (Peripheral nerves of lower limb, including hip - Malignant neoplasms); C47.3 (Peripheral"
+"nerves of thorax - Malignant neoplasms); C47.4 (Peripheral nerves of abdomen - Malignant neoplasms); C47.5 (Peripheral nerves of"
+"pelvis - Malignant neoplasms); C47.6 (Peripheral nerves of trunk, unspecified - Malignant neoplasms); C47.8 (Overlapping lesion"
+"of peripheral nerves and autonomic nervous system - Malignant neoplasms); C47.9 (Peripheral nerves and autonomic nervous system,"
+"unspecified - Malignant neoplasms); C48.0 (Retroperitoneum - Malignant neoplasms); C48.1 (Specified parts of peritoneum -"
+"Malignant neoplasms); C48.2 (Peritoneum, unspecified - Malignant neoplasms); C48.8 (Overlapping lesion of retroperitoneum and"
+"peritoneum - Malignant neoplasms); C49.0 (Connective and soft tissue of head, face and neck - Malignant neoplasms); C49.1"
+"(Connective and soft tissue of upper limb, including shoulder - Malignant neoplasms); C49.2 (Connective and soft tissue of lower"
+"limb, including hip - Malignant neoplasms); C49.3 (Connective and soft tissue of thorax - Malignant neoplasms); C49.4"
+"(Connective and soft tissue of abdomen - Malignant neoplasms); C49.5 (Connective and soft tissue of pelvis - Malignant"
+"neoplasms); C49.6 (Connective and soft tissue of trunk, unspecified - Malignant neoplasms); C49.8 (Overlapping lesion of"
+"connective and soft tissue - Malignant neoplasms); C49.9 (Connective and soft tissue, unspecified - Malignant neoplasms); C50.0"
+"(Nipple and areola - Malignant neoplasms); C50.1 (Central portion of breast - Malignant neoplasms); C50.2 (Upper-inner quadrant"
+"of breast - Malignant neoplasms); C50.3 (Lower-inner quadrant of breast - Malignant neoplasms); C50.4 (Upper-outer quadrant of"
+"breast - Malignant neoplasms); C50.5 (Lower-outer quadrant of breast - Malignant neoplasms); C50.6 (Axillary tail of breast -"
+"Malignant neoplasms); C50.8 (Overlapping lesion of breast - Malignant neoplasms); C50.9 (Breast, unspecified - Malignant"
+"neoplasms); C51.0 (Labium majus - Malignant neoplasms); C51.1 (Labium minus - Malignant neoplasms); C51.2 (Clitoris - Malignant"
+"neoplasms); C51.8 (Overlapping lesion of vulva - Malignant neoplasms); C51.9 (Vulva, unspecified - Malignant neoplasms); C52"
+"(Malignant neoplasm of vagina); C53.0 (Endocervix - Malignant neoplasms); C53.1 (Exocervix - Malignant neoplasms); C53.8"
+"(Overlapping lesion of cervix uteri - Malignant neoplasms); C53.9 (Cervix uteri, unspecified - Malignant neoplasms); C54.0"
+"(Isthmus uteri - Malignant neoplasms); C54.1 (Endometrium - Malignant neoplasms); C54.2 (Myometrium - Malignant neoplasms);"
+"C54.3 (Fundus uteri - Malignant neoplasms); C54.8 (Overlapping lesion of corpus uteri - Malignant neoplasms); C54.9 (Corpus"
+"uteri, unspecified - Malignant neoplasms); C55 (Malignant neoplasm of uterus, part unspecified); C56 (Malignant neoplasm of"
+"ovary); C57.0 (Fallopian tube - Malignant neoplasms); C57.1 (Broad ligament - Malignant neoplasms); C57.2 (Round ligament -"
+"Malignant neoplasms); C57.3 (Parametrium - Malignant neoplasms); C57.4 (Uterine adnexa, unspecified - Malignant neoplasms);"
+"C57.7 (Other specified female genital organs - Malignant neoplasms); C57.8 (Overlapping lesion of female genital organs -"
+"Malignant neoplasms); C57.9 (Female genital organ, unspecified - Malignant neoplasms); C58 (Malignant neoplasm of placenta);"
+"C60.0 (Prepuce - Malignant neoplasms); C60.1 (Glans penis - Malignant neoplasms); C60.2 (Body of penis - Malignant neoplasms);"
+"C60.8 (Overlapping lesion of penis - Malignant neoplasms); C60.9 (Penis, unspecified - Malignant neoplasms); C61 (Malignant"
+"neoplasm of prostate); C62.0 (Undescended testis - Malignant neoplasms); C62.1 (Descended testis - Malignant neoplasms); C62.9"
+"(Testis, unspecified - Malignant neoplasms); C63.0 (Epididymis - Malignant neoplasms); C63.1 (Spermatic cord - Malignant"
+"neoplasms); C63.2 (Scrotum - Malignant neoplasms); C63.7 (Other specified male genital organs - Malignant neoplasms); C63.8"
+"(Overlapping lesion of male genital organs - Malignant neoplasms); C63.9 (Male genital organ, unspecified - Malignant"
+"neoplasms); C64 (Malignant neoplasm of kidney, except renal pelvis); C65 (Malignant neoplasm of renal pelvis); C66 (Malignant"
+"neoplasm of ureter); C67.0 (Trigone of bladder - Malignant neoplasms); C67.1 (Dome of bladder - Malignant neoplasms); C67.2"
+"(Lateral wall of bladder - Malignant neoplasms); C67.3 (Anterior wall of bladder - Malignant neoplasms); C67.4 (Posterior wall"
+"of bladder - Malignant neoplasms); C67.5 (Bladder neck - Malignant neoplasms); C67.6 (Ureteric orifice - Malignant neoplasms);"
+"C67.7 (Urachus - Malignant neoplasms); C67.8 (Overlapping lesion of bladder - Malignant neoplasms); C67.9 (Bladder, unspecified"
+"- Malignant neoplasms); C68.0 (Urethra - Malignant neoplasms); C68.1 (Paraurethral gland - Malignant neoplasms); C68.8"
+"(Overlapping lesion of urinary organs - Malignant neoplasms); C68.9 (Urinary organ, unspecified - Malignant neoplasms); C69.0"
+"(Conjunctiva - Malignant neoplasms); C69.1 (Cornea - Malignant neoplasms); C69.2 (Retina - Malignant neoplasms); C69.3 (Choroid"
+"- Malignant neoplasms); C69.4 (Ciliary body - Malignant neoplasms); C69.5 (Lacrimal gland and duct - Malignant neoplasms); C69.6"
+"(Orbit - Malignant neoplasms); C69.8 (Overlapping lesion of eye and adnexa - Malignant neoplasms); C69.9 (Eye, unspecified -"
+"Malignant neoplasms); C70.0 (Cerebral meninges - Malignant neoplasms); C70.1 (Spinal meninges - Malignant neoplasms); C70.9"
+"(Meninges, unspecified - Malignant neoplasms); C71.0 (Cerebrum, except lobes and ventricles - Malignant neoplasms); C71.1"
+"(Frontal lobe - Malignant neoplasms); C71.2 (Temporal lobe - Malignant neoplasms); C71.3 (Parietal lobe - Malignant neoplasms);"
+"C71.4 (Occipital lobe - Malignant neoplasms); C71.5 (Cerebral ventricle - Malignant neoplasms); C71.6 (Cerebellum - Malignant"
+"neoplasms); C71.7 (Brain stem - Malignant neoplasms); C71.8 (Overlapping lesion of brain - Malignant neoplasms); C71.9 (Brain,"
+"unspecified - Malignant neoplasms); C72.0 (Spinal cord - Malignant neoplasms); C72.1 (Cauda equina - Malignant neoplasms); C72.2"
+"(Olfactory nerve - Malignant neoplasms); C72.3 (Optic nerve - Malignant neoplasms); C72.4 (Acoustic nerve - Malignant"
+"neoplasms); C72.5 (Other and unspecified cranial nerves - Malignant neoplasms); C72.8 (Overlapping lesion of brain and other"
+"parts of central nervous system - Malignant neoplasms); C72.9 (Central nervous system, unspecified - Malignant neoplasms); C73"
+"(Malignant neoplasm of thyroid gland); C74.0 (Cortex of adrenal gland - Malignant neoplasms); C74.1 (Medulla of adrenal gland -"
+"Malignant neoplasms); C74.9 (Adrenal gland, unspecified - Malignant neoplasms); C75.0 (Parathyroid gland - Malignant neoplasms);"
+"C75.1 (Pituitary gland - Malignant neoplasms); C75.2 (Craniopharyngeal duct - Malignant neoplasms); C75.3 (Pineal gland -"
+"Malignant neoplasms); C75.4 (Carotid body - Malignant neoplasms); C75.5 (Aortic body and other paraganglia - Malignant"
+"neoplasms); C75.8 (Pluriglandular involvement, unspecified - Malignant neoplasms); C75.9 (Endocrine gland, unspecified -"
+"Malignant neoplasms); C76.0 (Head, face and neck - Malignant neoplasms); C76.1 (Thorax - Malignant neoplasms); C76.2 (Abdomen -"
+"Malignant neoplasms); C76.3 (Pelvis - Malignant neoplasms); C76.4 (Upper limb - Malignant neoplasms); C76.5 (Lower limb -"
+"Malignant neoplasms); C76.7 (Other ill-defined sites - Malignant neoplasms); C76.8 (Overlapping lesion of other and ill-defined"
+"sites - Malignant neoplasms); C77.0 (Lymph nodes of head, face and neck - Malignant neoplasms); C77.1 (Intrathoracic lymph nodes"
+"- Malignant neoplasms); C77.2 (Intra-abdominal lymph nodes - Malignant neoplasms); C77.3 (Axillary and upper limb lymph nodes -"
+"Malignant neoplasms); C77.4 (Inguinal and lower limb lymph nodes - Malignant neoplasms); C77.5 (Intrapelvic lymph nodes -"
+"Malignant neoplasms); C77.8 (Lymph nodes of multiple regions - Malignant neoplasms); C77.9 (Lymph node, unspecified - Malignant"
+"neoplasms); C78.0 (Secondary malignant neoplasm of lung - Malignant neoplasms); C78.1 (Secondary malignant neoplasm of"
+"mediastinum - Malignant neoplasms); C78.2 (Secondary malignant neoplasm of pleura - Malignant neoplasms); C78.3 (Secondary"
+"malignant neoplasm of other and unspecified respiratory organs - Malignant neoplasms); C78.4 (Secondary malignant neoplasm of"
+"small intestine - Malignant neoplasms); C78.5 (Secondary malignant neoplasm of large intestine and rectum - Malignant"
+"neoplasms); C78.6 (Secondary malignant neoplasm of retroperitoneum and peritoneum - Malignant neoplasms); C78.7 (Secondary"
+"malignant neoplasm of liver - Malignant neoplasms); C78.8 (Secondary malignant neoplasm of other and unspecified digestive"
+"organs - Malignant neoplasms); C79.0 (Secondary malignant neoplasm of kidney and renal pelvis - Malignant neoplasms); C79.1"
+"(Secondary malignant neoplasm of bladder and other and unspecified urinary organs - Malignant neoplasms); C79.2 (Secondary"
+"malignant neoplasm of skin - Malignant neoplasms); C79.3 (Secondary malignant neoplasm of brain and cerebral meninges -"
+"Malignant neoplasms); C79.4 (Secondary malignant neoplasm of other and unspecified parts of nervous system - Malignant"
+"neoplasms); C79.5 (Secondary malignant neoplasm of bone and bone marrow - Malignant neoplasms); C79.6 (Secondary malignant"
+"neoplasm of ovary - Malignant neoplasms); C79.7 (Secondary malignant neoplasm of adrenal gland - Malignant neoplasms); C79.8"
+"(Secondary malignant neoplasm of other specified sites - Malignant neoplasms); C80 (Malignant neoplasm without specification of"
+"site); C97 (Malignant neoplasms of independent (primary) multiple sites)"
+"Group By: Year; Ten-Year Age Groups; Sex"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 14, 2026 2:49:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 14, 2026 2:49:23 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"9. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"10. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"11. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

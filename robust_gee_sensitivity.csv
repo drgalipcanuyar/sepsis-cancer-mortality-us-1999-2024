@@ -1,0 +1,3 @@
+variance_specification,interaction_chi2,df,p_value
+Huber-White HC0,687.8286581579604,4,1.5052750753653297e-147
+GEE exchangeable,277.3113159900037,4,8.465865871324312e-59

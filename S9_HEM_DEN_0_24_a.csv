@@ -1,0 +1,169 @@
+"Notes","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+,"1999","1999","Female","F",508,48114203,1.1,1.0,1.1,0.0,2.3%
+,"1999","1999","Male","M",730,50517196,1.4,1.3,1.5,0.1,3.4%
+"Total","1999","1999",,,1238,98631399,1.3,1.2,1.3,0.0,5.7%
+,"2000","2000","Female","F",500,48504241,1.0,0.9,1.1,0.0,2.3%
+,"2000","2000","Male","M",775,50933025,1.5,1.4,1.6,0.1,3.6%
+"Total","2000","2000",,,1275,99437266,1.3,1.2,1.4,0.0,5.9%
+,"2001","2001","Female","F",519,49093055,1.1,1.0,1.1,0.0,2.4%
+,"2001","2001","Male","M",737,51570772,1.4,1.3,1.5,0.1,3.4%
+"Total","2001","2001",,,1256,100663827,1.2,1.2,1.3,0.0,5.8%
+,"2002","2002","Female","F",517,49466931,1.0,1.0,1.1,0.0,2.4%
+,"2002","2002","Male","M",712,51950234,1.4,1.3,1.5,0.1,3.3%
+"Total","2002","2002",,,1229,101417165,1.2,1.1,1.3,0.0,5.7%
+,"2003","2003","Female","F",479,49785739,1.0,0.9,1.0,0.0,2.2%
+,"2003","2003","Male","M",690,52231765,1.3,1.2,1.4,0.1,3.2%
+"Total","2003","2003",,,1169,102017504,1.1,1.1,1.2,0.0,5.4%
+,"2004","2004","Female","F",456,50055762,0.9,0.8,1.0,0.0,2.1%
+,"2004","2004","Male","M",695,52544152,1.3,1.2,1.4,0.1,3.2%
+"Total","2004","2004",,,1151,102599914,1.1,1.1,1.2,0.0,5.3%
+,"2005","2005","Female","F",429,50221682,0.9,0.8,0.9,0.0,2.0%
+,"2005","2005","Male","M",713,52743533,1.4,1.3,1.5,0.1,3.3%
+"Total","2005","2005",,,1142,102965215,1.1,1.0,1.2,0.0,5.3%
+,"2006","2006","Female","F",423,50404205,0.8,0.8,0.9,0.0,1.9%
+,"2006","2006","Male","M",701,52956348,1.3,1.2,1.4,0.0,3.2%
+"Total","2006","2006",,,1124,103360553,1.1,1.0,1.2,0.0,5.2%
+,"2007","2007","Female","F",461,50652523,0.9,0.8,1.0,0.0,2.1%
+,"2007","2007","Male","M",658,53174907,1.2,1.1,1.3,0.0,3.0%
+"Total","2007","2007",,,1119,103827430,1.1,1.0,1.1,0.0,5.1%
+,"2008","2008","Female","F",415,50915859,0.8,0.7,0.9,0.0,1.9%
+,"2008","2008","Male","M",621,53383017,1.2,1.1,1.3,0.0,2.9%
+"Total","2008","2008",,,1036,104298876,1.0,0.9,1.1,0.0,4.8%
+,"2009","2009","Female","F",386,51129889,0.8,0.7,0.8,0.0,1.8%
+,"2009","2009","Male","M",603,53534624,1.1,1.0,1.2,0.0,2.8%
+"Total","2009","2009",,,989,104664513,0.9,0.9,1.0,0.0,4.6%
+,"2010","2010","Female","F",391,51246786,0.8,0.7,0.8,0.0,1.8%
+,"2010","2010","Male","M",571,53606769,1.1,1.0,1.2,0.0,2.6%
+"Total","2010","2010",,,962,104853555,0.9,0.9,1.0,0.0,4.4%
+,"2011","2011","Female","F",381,51296618,0.7,0.7,0.8,0.0,1.8%
+,"2011","2011","Male","M",533,53702363,1.0,0.9,1.1,0.0,2.5%
+"Total","2011","2011",,,914,104998981,0.9,0.8,0.9,0.0,4.2%
+,"2012","2012","Female","F",380,51333144,0.7,0.7,0.8,0.0,1.7%
+,"2012","2012","Male","M",517,53754859,1.0,0.9,1.0,0.0,2.4%
+"Total","2012","2012",,,897,105088003,0.9,0.8,0.9,0.0,4.1%
+,"2013","2013","Female","F",365,51304455,0.7,0.6,0.8,0.0,1.7%
+,"2013","2013","Male","M",487,53739070,0.9,0.8,1.0,0.0,2.2%
+"Total","2013","2013",,,852,105043525,0.8,0.8,0.9,0.0,3.9%
+,"2014","2014","Female","F",320,51338950,0.6,0.6,0.7,0.0,1.5%
+,"2014","2014","Male","M",508,53708826,0.9,0.9,1.0,0.0,2.3%
+"Total","2014","2014",,,828,105047776,0.8,0.7,0.8,0.0,3.8%
+,"2015","2015","Female","F",331,51242161,0.6,0.6,0.7,0.0,1.5%
+,"2015","2015","Male","M",509,53622842,0.9,0.9,1.0,0.0,2.3%
+"Total","2015","2015",,,840,104865003,0.8,0.7,0.9,0.0,3.9%
+,"2016","2016","Female","F",326,51057677,0.6,0.6,0.7,0.0,1.5%
+,"2016","2016","Male","M",530,53428419,1.0,0.9,1.1,0.0,2.4%
+"Total","2016","2016",,,856,104486096,0.8,0.8,0.9,0.0,3.9%
+,"2017","2017","Female","F",286,50953033,0.6,0.5,0.6,0.0,1.3%
+,"2017","2017","Male","M",473,53318814,0.9,0.8,1.0,0.0,2.2%
+"Total","2017","2017",,,759,104271847,0.7,0.7,0.8,0.0,3.5%
+,"2018","2018","Female","F",296,50772757,0.6,0.5,0.6,0.0,1.4%
+,"2018","2018","Male","M",451,53083487,0.8,0.8,0.9,0.0,2.1%
+"Total","2018","2018",,,747,103856244,0.7,0.7,0.8,0.0,3.4%
+,"2019","2019","Female","F",321,50497767,0.6,0.6,0.7,0.0,1.5%
+,"2019","2019","Male","M",407,52760589,0.8,0.7,0.8,0.0,1.9%
+"Total","2019","2019",,,728,103258356,0.7,0.7,0.8,0.0,3.4%
+,"2020","2020","Female","F",267,50318789,0.5,0.5,0.6,0.0,1.2%
+,"2020","2020","Male","M",352,52530321,0.7,0.6,0.7,0.0,1.6%
+"Total","2020","2020",,,619,102849110,0.6,0.6,0.6,0.0,2.8%
+"Total",,,,,21730,2272502158,1.0,0.9,1.0,0.0,100.0%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years"
+"UCD - ICD-10 Codes: C81.0 (Hodgkin lymphocytic predominance); C81.1 (Hodgkin nodular sclerosis); C81.2 (Hodgkin mixed"
+"cellularity); C81.3 (Hodgkin lymphocytic depletion); C81.7 (Other Hodgkin disease); C81.9 (Hodgkin disease, unspecified); C82.0"
+"(Non-Hodgkin lymphoma small cleaved cell, follicular); C82.1 (Non-Hodgkin lymphoma mixed small cleaved and large cell,"
+"follicular); C82.2 (Non-Hodgkin lymphoma large cell, follicular); C82.7 (Other types of follicular non-Hodgkin lymphoma); C82.9"
+"(Follicular non-Hodgkin lymphoma, unspecified); C83.0 (Non-Hodgkin lymphoma small cell (diffuse)); C83.1 (Non-Hodgkin lymphoma"
+"small cleaved cell (diffuse)); C83.2 (Non-Hodgkin lymphoma mixed small and large cell (diffuse)); C83.3 (Non-Hodgkin lymphoma"
+"large cell (diffuse)); C83.4 (Non-Hodgkin lymphoma immunoblastic (diffuse)); C83.5 (Non-Hodgkin lymphoma lymphoblastic"
+"(diffuse)); C83.6 (Non-Hodgkin lymphoma undifferentiated (diffuse)); C83.7 (Burkitt tumor); C83.8 (Other types of diffuse"
+"non-Hodgkin lymphoma); C83.9 (Diffuse non-Hodgkin lymphoma, unspecified); C84.0 (Mycosis fungoides - Malignant neoplasms); C84.1"
+"(STzary disease); C84.2 (T-zone lymphoma - Malignant neoplasms); C84.3 (Lymphoepithelioid lymphoma - Malignant neoplasms); C84.4"
+"(Peripheral T-cell lymphoma - Malignant neoplasms); C84.5 (Other and unspecified T-cell lymphomas - Malignant neoplasms); C85.0"
+"(Lymphosarcoma - Malignant neoplasms); C85.1 (B-cell lymphoma, unspecified - Malignant neoplasms); C85.7 (Other specified types"
+"of non-Hodgkin lymphoma); C85.9 (Non-Hodgkin lymphoma, unspecified type); C88.0 (Waldenstr÷m macroglobulinemia); C88.1 (Alpha"
+"heavy chain disease - Malignant neoplasms); C88.2 (Gamma heavy chain disease - Malignant neoplasms); C88.3 (Immunoproliferative"
+"small intestinal disease - Malignant neoplasms); C88.7 (Other malignant immunoproliferative diseases - Malignant neoplasms);"
+"C88.9 (Malignant immunoproliferative disease, unspecified - Malignant neoplasms); C90.0 (Multiple myeloma - Malignant"
+"neoplasms); C90.1 (Plasma cell leukaemia - Malignant neoplasms); C90.2 (Plasmacytoma, extramedullary - Malignant neoplasms);"
+"C91.0 (Acute lymphoblastic leukaemia - Malignant neoplasms); C91.1 (Chronic lymphocytic leukaemia - Malignant neoplasms); C91.2"
+"(Subacute lymphocytic leukaemia - Malignant neoplasms); C91.3 (Prolymphocytic leukaemia - Malignant neoplasms); C91.4"
+"(Hairy-cell leukaemia - Malignant neoplasms); C91.5 (Adult T-cell leukaemia - Malignant neoplasms); C91.7 (Other lymphoid"
+"leukaemia - Malignant neoplasms); C91.9 (Lymphoid leukaemia, unspecified - Malignant neoplasms); C92.0 (Acute myeloid leukaemia"
+"- Malignant neoplasms); C92.1 (Chronic myeloid leukaemia - Malignant neoplasms); C92.2 (Subacute myeloid leukaemia - Malignant"
+"neoplasms); C92.3 (Myeloid sarcoma - Malignant neoplasms); C92.4 (Acute promyelocytic leukaemia - Malignant neoplasms); C92.5"
+"(Acute myelomonocytic leukaemia - Malignant neoplasms); C92.7 (Other myeloid leukaemia - Malignant neoplasms); C92.9 (Myeloid"
+"leukaemia, unspecified - Malignant neoplasms); C93.0 (Acute monocytic leukaemia - Malignant neoplasms); C93.1 (Chronic monocytic"
+"leukaemia - Malignant neoplasms); C93.2 (Subacute monocytic leukaemia - Malignant neoplasms); C93.7 (Other monocytic leukaemia -"
+"Malignant neoplasms); C93.9 (Monocytic leukaemia, unspecified - Malignant neoplasms); C94.0 (Acute erythraemia and"
+"erythroleukaemia - Malignant neoplasms); C94.1 (Chronic erythraemia - Malignant neoplasms); C94.2 (Acute megakaryoblastic"
+"leukaemia - Malignant neoplasms); C94.3 (Mast cell leukaemia - Malignant neoplasms); C94.4 (Acute panmyelosis - Malignant"
+"neoplasms); C94.5 (Acute myelofibrosis - Malignant neoplasms); C94.7 (Other specified leukaemias - Malignant neoplasms); C95.0"
+"(Acute leukaemia of unspecified cell type - Malignant neoplasms); C95.1 (Chronic leukaemia of unspecified cell type - Malignant"
+"neoplasms); C95.2 (Subacute leukaemia of unspecified cell type - Malignant neoplasms); C95.7 (Other leukaemia of unspecified"
+"cell type - Malignant neoplasms); C95.9 (Leukaemia, unspecified - Malignant neoplasms); C96.0 (Letterer-Siwe disease - Malignant"
+"neoplasms); C96.1 (Malignant histiocytosis - Malignant neoplasms); C96.2 (Malignant mast cell tumour - Malignant neoplasms);"
+"C96.3 (True histiocytic lymphoma - Malignant neoplasms); C96.7 (Other specified malignant neoplasms of lymphoid, haematopoietic"
+"and related tissue - Malignant neoplasms); C96.9 (Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified"
+"- Malignant neoplasms)"
+"Group By: Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 14, 2026 3:22:57 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 14, 2026 3:22:57 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"6. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"7. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

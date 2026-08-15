@@ -1,0 +1,9 @@
+Grouped observations: 936
+Model parameters: 44
+Residual df: 892
+Pearson chi-square: 12846.59
+Pearson dispersion: 14.402
+Residual deviance: 12782.00
+Deviance/df: 14.330
+Cancer status x time Wald chi-square(4): 525.13; P=2.45864e-112
+Model differential change 2024 vs 1999: 0.612 pp (95% CI 0.395, 0.830)

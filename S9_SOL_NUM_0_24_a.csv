@@ -1,0 +1,310 @@
+"Notes","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+,"1999","1999","Female","F",38,48114203,0.1,0.1,0.1,0.0,3.0%
+,"1999","1999","Male","M",37,50517196,0.1,0.1,0.1,0.0,2.9%
+"Total","1999","1999",,,75,98631399,0.1,0.1,0.1,0.0,5.8%
+,"2000","2000","Female","F",32,48504241,0.1,0.0,0.1,0.0,2.5%
+,"2000","2000","Male","M",39,50933025,0.1,0.1,0.1,0.0,3.0%
+"Total","2000","2000",,,71,99437266,0.1,0.1,0.1,0.0,5.5%
+,"2001","2001","Female","F",23,49093055,0.0,0.0,0.1,0.0,1.8%
+,"2001","2001","Male","M",32,51570772,0.1,0.0,0.1,0.0,2.5%
+"Total","2001","2001",,,55,100663827,0.1,0.0,0.1,0.0,4.3%
+,"2002","2002","Female","F",26,49466931,0.1,0.0,0.1,0.0,2.0%
+,"2002","2002","Male","M",38,51950234,0.1,0.1,0.1,0.0,3.0%
+"Total","2002","2002",,,64,101417165,0.1,0.0,0.1,0.0,5.0%
+,"2003","2003","Female","F",33,49785739,0.1,0.0,0.1,0.0,2.6%
+,"2003","2003","Male","M",34,52231765,0.1,0.0,0.1,0.0,2.6%
+"Total","2003","2003",,,67,102017504,0.1,0.1,0.1,0.0,5.2%
+,"2004","2004","Female","F",12,50055762,Unreliable,0.0,0.0,0.0,0.9%
+,"2004","2004","Male","M",35,52544152,0.1,0.0,0.1,0.0,2.7%
+"Total","2004","2004",,,47,102599914,0.0,0.0,0.1,0.0,3.7%
+,"2005","2005","Female","F",27,50221682,0.1,0.0,0.1,0.0,2.1%
+,"2005","2005","Male","M",30,52743533,0.1,0.0,0.1,0.0,2.3%
+"Total","2005","2005",,,57,102965215,0.1,0.0,0.1,0.0,4.4%
+,"2006","2006","Female","F",33,50404205,0.1,0.0,0.1,0.0,2.6%
+,"2006","2006","Male","M",30,52956348,0.1,0.0,0.1,0.0,2.3%
+"Total","2006","2006",,,63,103360553,0.1,0.0,0.1,0.0,4.9%
+,"2007","2007","Female","F",27,50652523,0.1,0.0,0.1,0.0,2.1%
+,"2007","2007","Male","M",33,53174907,0.1,0.0,0.1,0.0,2.6%
+"Total","2007","2007",,,60,103827430,0.1,0.0,0.1,0.0,4.7%
+,"2008","2008","Female","F",26,50915859,0.1,0.0,0.1,0.0,2.0%
+,"2008","2008","Male","M",30,53383017,0.1,0.0,0.1,0.0,2.3%
+"Total","2008","2008",,,56,104298876,0.1,0.0,0.1,0.0,4.4%
+,"2009","2009","Female","F",31,51129889,0.1,0.0,0.1,0.0,2.4%
+,"2009","2009","Male","M",29,53534624,0.1,0.0,0.1,0.0,2.3%
+"Total","2009","2009",,,60,104664513,0.1,0.0,0.1,0.0,4.7%
+,"2010","2010","Female","F",14,51246786,Unreliable,0.0,0.0,0.0,1.1%
+,"2010","2010","Male","M",40,53606769,0.1,0.1,0.1,0.0,3.1%
+"Total","2010","2010",,,54,104853555,0.1,0.0,0.1,0.0,4.2%
+,"2011","2011","Female","F",24,51296618,0.0,0.0,0.1,0.0,1.9%
+,"2011","2011","Male","M",30,53702363,0.1,0.0,0.1,0.0,2.3%
+"Total","2011","2011",,,54,104998981,0.1,0.0,0.1,0.0,4.2%
+,"2012","2012","Female","F",25,51333144,0.0,0.0,0.1,0.0,1.9%
+,"2012","2012","Male","M",31,53754859,0.1,0.0,0.1,0.0,2.4%
+"Total","2012","2012",,,56,105088003,0.1,0.0,0.1,0.0,4.4%
+,"2013","2013","Female","F",18,51304455,Unreliable,0.0,0.1,0.0,1.4%
+,"2013","2013","Male","M",26,53739070,0.0,0.0,0.1,0.0,2.0%
+"Total","2013","2013",,,44,105043525,0.0,0.0,0.1,0.0,3.4%
+,"2014","2014","Female","F",29,51338950,0.1,0.0,0.1,0.0,2.3%
+,"2014","2014","Male","M",35,53708826,0.1,0.0,0.1,0.0,2.7%
+"Total","2014","2014",,,64,105047776,0.1,0.0,0.1,0.0,5.0%
+,"2015","2015","Female","F",22,51242161,0.0,0.0,0.1,0.0,1.7%
+,"2015","2015","Male","M",32,53622842,0.1,0.0,0.1,0.0,2.5%
+"Total","2015","2015",,,54,104865003,0.1,0.0,0.1,0.0,4.2%
+,"2016","2016","Female","F",22,51057677,0.0,0.0,0.1,0.0,1.7%
+,"2016","2016","Male","M",45,53428419,0.1,0.1,0.1,0.0,3.5%
+"Total","2016","2016",,,67,104486096,0.1,0.0,0.1,0.0,5.2%
+,"2017","2017","Female","F",22,50953033,0.0,0.0,0.1,0.0,1.7%
+,"2017","2017","Male","M",32,53318814,0.1,0.0,0.1,0.0,2.5%
+"Total","2017","2017",,,54,104271847,0.1,0.0,0.1,0.0,4.2%
+,"2018","2018","Female","F",22,50772757,0.0,0.0,0.1,0.0,1.7%
+,"2018","2018","Male","M",25,53083487,0.0,0.0,0.1,0.0,1.9%
+"Total","2018","2018",,,47,103856244,0.0,0.0,0.1,0.0,3.7%
+,"2019","2019","Female","F",27,50497767,0.1,0.0,0.1,0.0,2.1%
+,"2019","2019","Male","M",34,52760589,0.1,0.0,0.1,0.0,2.6%
+"Total","2019","2019",,,61,103258356,0.1,0.0,0.1,0.0,4.7%
+,"2020","2020","Female","F",31,50318789,0.1,0.0,0.1,0.0,2.4%
+,"2020","2020","Male","M",24,52530321,0.0,0.0,0.1,0.0,1.9%
+"Total","2020","2020",,,55,102849110,0.1,0.0,0.1,0.0,4.3%
+"Total",,,,,1285,2272502158,0.1,0.1,0.1,0.0,100.0%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: A40.0 (Septicaemia due to streptococcus, group A); A40.1 (Septicaemia due to streptococcus, group B); A40.2"
+"(Septicaemia due to streptococcus, group D); A40.3 (Septicaemia due to Streptococcus pneumoniae); A40.8 (Other streptococcal"
+"septicaemia); A40.9 (Streptococcal septicaemia, unspecified); A41.0 (Septicaemia due to Staphylococcus aureus); A41.1"
+"(Septicaemia due to other specified staphylococcus); A41.2 (Septicaemia due to unspecified staphylococcus); A41.3 (Septicaemia"
+"due to Haemophilus influenzae); A41.4 (Septicaemia due to anaerobes); A41.5 (Septicaemia due to other Gram-negative organisms);"
+"A41.8 (Other specified septicaemia); A41.9 (Septicaemia, unspecified)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years"
+"UCD - ICD-10 Codes: C00.0 (External upper lip - Malignant neoplasms); C00.1 (External lower lip - Malignant neoplasms); C00.2"
+"(External lip, unspecified - Malignant neoplasms); C00.3 (Upper lip, inner aspect - Malignant neoplasms); C00.4 (Lower lip,"
+"inner aspect - Malignant neoplasms); C00.5 (Lip, unspecified, inner aspect - Malignant neoplasms); C00.6 (Commissure of lip -"
+"Malignant neoplasms); C00.8 (Overlapping lesion of lip - Malignant neoplasms); C00.9 (Lip, unspecified - Malignant neoplasms);"
+"C01 (Malignant neoplasm of base of tongue); C02.0 (Dorsal surface of tongue - Malignant neoplasms); C02.1 (Border of tongue -"
+"Malignant neoplasms); C02.2 (Ventral surface of tongue - Malignant neoplasms); C02.3 (Anterior two-thirds of tongue, part"
+"unspecified - Malignant neoplasms); C02.4 (Lingual tonsil - Malignant neoplasms); C02.8 (Overlapping lesion of tongue -"
+"Malignant neoplasms); C02.9 (Tongue, unspecified - Malignant neoplasms); C03.0 (Upper gum - Malignant neoplasms); C03.1 (Lower"
+"gum - Malignant neoplasms); C03.9 (Gum, unspecified - Malignant neoplasms); C04.0 (Anterior floor of mouth - Malignant"
+"neoplasms); C04.1 (Lateral floor of mouth - Malignant neoplasms); C04.8 (Overlapping lesion of floor of mouth - Malignant"
+"neoplasms); C04.9 (Floor of mouth, unspecified - Malignant neoplasms); C05.0 (Hard palate - Malignant neoplasms); C05.1 (Soft"
+"palate - Malignant neoplasms); C05.2 (Uvula - Malignant neoplasms); C05.8 (Overlapping lesion of palate - Malignant neoplasms);"
+"C05.9 (Palate, unspecified - Malignant neoplasms); C06.0 (Cheek mucosa - Malignant neoplasms); C06.1 (Vestibule of mouth -"
+"Malignant neoplasms); C06.2 (Retromolar area - Malignant neoplasms); C06.8 (Overlapping lesion of other and unspecified parts of"
+"mouth - Malignant neoplasms); C06.9 (Mouth, unspecified - Malignant neoplasms); C07 (Malignant neoplasm of parotid gland); C08.0"
+"(Submandibular gland - Malignant neoplasms); C08.1 (Sublingual gland - Malignant neoplasms); C08.8 (Overlapping lesion of major"
+"salivary glands - Malignant neoplasms); C08.9 (Major salivary gland, unspecified - Malignant neoplasms); C09.0 (Tonsillar fossa"
+"- Malignant neoplasms); C09.1 (Tonsillar pillar (anterior)(posterior) - Malignant neoplasms); C09.8 (Overlapping lesion of"
+"tonsil - Malignant neoplasms); C09.9 (Tonsil, unspecified - Malignant neoplasms); C10.0 (Vallecula - Malignant neoplasms); C10.1"
+"(Anterior surface of epiglottis - Malignant neoplasms); C10.2 (Lateral wall of oropharynx - Malignant neoplasms); C10.3"
+"(Posterior wall of oropharynx - Malignant neoplasms); C10.4 (Branchial cleft - Malignant neoplasms); C10.8 (Overlapping lesion"
+"of oropharynx - Malignant neoplasms); C10.9 (Oropharynx, unspecified - Malignant neoplasms); C11.0 (Superior wall of nasopharynx"
+"- Malignant neoplasms); C11.1 (Posterior wall of nasopharynx - Malignant neoplasms); C11.2 (Lateral wall of nasopharynx -"
+"Malignant neoplasms); C11.3 (Anterior wall of nasopharynx - Malignant neoplasms); C11.8 (Overlapping lesion of nasopharynx -"
+"Malignant neoplasms); C11.9 (Nasopharynx, unspecified - Malignant neoplasms); C12 (Malignant neoplasm of pyriform sinus); C13.0"
+"(Postcricoid region - Malignant neoplasms); C13.1 (Aryepiglottic fold, hypopharyngeal aspect - Malignant neoplasms); C13.2"
+"(Posterior wall of hypopharynx - Malignant neoplasms); C13.8 (Overlapping lesion of hypopharynx - Malignant neoplasms); C13.9"
+"(Hypopharynx, unspecified - Malignant neoplasms); C14.0 (Pharynx, unspecified - Malignant neoplasms); C14.2 (Malignant neoplasm"
+"of Waldeyer ring); C14.8 (Overlapping lesion of lip, oral cavity and pharynx - Malignant neoplasms); C15.0 (Cervical part of"
+"oesophagus - Malignant neoplasms); C15.1 (Thoracic part of oesophagus - Malignant neoplasms); C15.2 (Abdominal part of"
+"oesophagus - Malignant neoplasms); C15.3 (Upper third of oesophagus - Malignant neoplasms); C15.4 (Middle third of oesophagus -"
+"Malignant neoplasms); C15.5 (Lower third of oesophagus - Malignant neoplasms); C15.8 (Overlapping lesion of oesophagus -"
+"Malignant neoplasms); C15.9 (Oesophagus, unspecified - Malignant neoplasms); C16.0 (Cardia - Malignant neoplasms); C16.1 (Fundus"
+"of stomach - Malignant neoplasms); C16.2 (Body of stomach - Malignant neoplasms); C16.3 (Pyloric antrum - Malignant neoplasms);"
+"C16.4 (Pylorus - Malignant neoplasms); C16.5 (Lesser curvature of stomach, unspecified - Malignant neoplasms); C16.6 (Greater"
+"curvature of stomach, unspecified - Malignant neoplasms); C16.8 (Overlapping lesion of stomach - Malignant neoplasms); C16.9"
+"(Stomach, unspecified - Malignant neoplasms); C17.0 (Duodenum - Malignant neoplasms); C17.1 (Jejunum - Malignant neoplasms);"
+"C17.2 (Ileum - Malignant neoplasms); C17.3 (Malignant neoplasm of Meckel diverticulum); C17.8 (Overlapping lesion of small"
+"intestine - Malignant neoplasms); C17.9 (Small intestine, unspecified - Malignant neoplasms); C18.0 (Caecum - Malignant"
+"neoplasms); C18.1 (Appendix - Malignant neoplasms); C18.2 (Ascending colon - Malignant neoplasms); C18.3 (Hepatic flexure -"
+"Malignant neoplasms); C18.4 (Transverse colon - Malignant neoplasms); C18.5 (Splenic flexure - Malignant neoplasms); C18.6"
+"(Descending colon - Malignant neoplasms); C18.7 (Sigmoid colon - Malignant neoplasms); C18.8 (Overlapping lesion of colon -"
+"Malignant neoplasms); C18.9 (Colon, unspecified - Malignant neoplasms); C19 (Malignant neoplasm of rectosigmoid junction); C20"
+"(Malignant neoplasm of rectum); C21.0 (Anus, unspecified - Malignant neoplasms); C21.1 (Anal canal - Malignant neoplasms); C21.2"
+"(Cloacogenic zone - Malignant neoplasms); C21.8 (Overlapping lesion of rectum, anus and anal canal - Malignant neoplasms); C22.0"
+"(Liver cell carcinoma - Malignant neoplasms); C22.1 (Intrahepatic bile duct carcinoma - Malignant neoplasms); C22.2"
+"(Hepatoblastoma - Malignant neoplasms); C22.3 (Angiosarcoma of liver - Malignant neoplasms); C22.4 (Other sarcomas of liver -"
+"Malignant neoplasms); C22.7 (Other specified carcinomas of liver - Malignant neoplasms); C22.9 (Liver, unspecified - Malignant"
+"neoplasms); C23 (Malignant neoplasm of gallbladder); C24.0 (Extrahepatic bile duct - Malignant neoplasms); C24.1 (Ampulla of"
+"Vater - Malignant neoplasms); C24.8 (Overlapping lesion of biliary tract - Malignant neoplasms); C24.9 (Biliary tract,"
+"unspecified - Malignant neoplasms); C25.0 (Head of pancreas - Malignant neoplasms); C25.1 (Body of pancreas - Malignant"
+"neoplasms); C25.2 (Tail of pancreas - Malignant neoplasms); C25.3 (Pancreatic duct - Malignant neoplasms); C25.4 (Endocrine"
+"pancreas - Malignant neoplasms); C25.7 (Other parts of pancreas - Malignant neoplasms); C25.8 (Overlapping lesion of pancreas -"
+"Malignant neoplasms); C25.9 (Pancreas, unspecified - Malignant neoplasms); C26.0 (Intestinal tract, part unspecified - Malignant"
+"neoplasms); C26.1 (Spleen - Malignant neoplasms); C26.8 (Overlapping lesion of digestive system - Malignant neoplasms); C26.9"
+"(Ill-defined sites within the digestive system - Malignant neoplasms); C30.0 (Nasal cavity - Malignant neoplasms); C30.1 (Middle"
+"ear - Malignant neoplasms); C31.0 (Maxillary sinus - Malignant neoplasms); C31.1 (Ethmoidal sinus - Malignant neoplasms); C31.2"
+"(Frontal sinus - Malignant neoplasms); C31.3 (Sphenoidal sinus - Malignant neoplasms); C31.8 (Overlapping lesion of accessory"
+"sinuses - Malignant neoplasms); C31.9 (Accessory sinus, unspecified - Malignant neoplasms); C32.0 (Glottis - Malignant"
+"neoplasms); C32.1 (Supraglottis - Malignant neoplasms); C32.2 (Subglottis - Malignant neoplasms); C32.3 (Laryngeal cartilage -"
+"Malignant neoplasms); C32.8 (Overlapping lesion of larynx - Malignant neoplasms); C32.9 (Larynx, unspecified - Malignant"
+"neoplasms); C33 (Malignant neoplasm of trachea); C34.0 (Main bronchus - Malignant neoplasms); C34.1 (Upper lobe, bronchus or"
+"lung - Malignant neoplasms); C34.2 (Middle lobe, bronchus or lung - Malignant neoplasms); C34.3 (Lower lobe, bronchus or lung -"
+"Malignant neoplasms); C34.8 (Overlapping lesion of bronchus and lung - Malignant neoplasms); C34.9 (Bronchus or lung,"
+"unspecified - Malignant neoplasms); C37 (Malignant neoplasm of thymus); C38.0 (Heart - Malignant neoplasms); C38.1 (Anterior"
+"mediastinum - Malignant neoplasms); C38.2 (Posterior mediastinum - Malignant neoplasms); C38.3 (Mediastinum, part unspecified -"
+"Malignant neoplasms); C38.4 (Pleura - Malignant neoplasms); C38.8 (Overlapping lesion of heart, mediastinum and pleura -"
+"Malignant neoplasms); C39.0 (Upper respiratory tract, part unspecified - Malignant neoplasms); C39.8 (Overlapping lesion of"
+"respiratory and intrathoracic organs - Malignant neoplasms); C39.9 (Ill-defined sites within the respiratory system - Malignant"
+"neoplasms); C40.0 (Scapula and long bones of upper limb - Malignant neoplasms); C40.1 (Short bones of upper limb - Malignant"
+"neoplasms); C40.2 (Long bones of lower limb - Malignant neoplasms); C40.3 (Short bones of lower limb - Malignant neoplasms);"
+"C40.8 (Overlapping lesion of bone and articular cartilage of limbs - Malignant neoplasms); C40.9 (Bone and articular cartilage"
+"of limb, unspecified - Malignant neoplasms); C41.0 (Bones of skull and face - Malignant neoplasms); C41.1 (Mandible - Malignant"
+"neoplasms); C41.2 (Vertebral column - Malignant neoplasms); C41.3 (Ribs, sternum and clavicle - Malignant neoplasms); C41.4"
+"(Pelvic bones, sacrum and coccyx - Malignant neoplasms); C41.8 (Overlapping lesion of bone and articular cartilage - Malignant"
+"neoplasms); C41.9 (Bone and articular cartilage, unspecified - Malignant neoplasms); C43.0 (Malignant melanoma of lip -"
+"Malignant neoplasms); C43.1 (Malignant melanoma of eyelid, including canthus - Malignant neoplasms); C43.2 (Malignant melanoma"
+"of ear and external auricular canal - Malignant neoplasms); C43.3 (Malignant melanoma of other and unspecified parts of face -"
+"Malignant neoplasms); C43.4 (Malignant melanoma of scalp and neck - Malignant neoplasms); C43.5 (Malignant melanoma of trunk -"
+"Malignant neoplasms); C43.6 (Malignant melanoma of upper limb, including shoulder - Malignant neoplasms); C43.7 (Malignant"
+"melanoma of lower limb, including hip - Malignant neoplasms); C43.8 (Overlapping malignant melanoma of skin - Malignant"
+"neoplasms); C43.9 (Malignant melanoma of skin, unspecified - Malignant neoplasms); C44.0 (Skin of lip - Malignant neoplasms);"
+"C44.1 (Skin of eyelid, including canthus - Malignant neoplasms); C44.2 (Skin of ear and external auricular canal - Malignant"
+"neoplasms); C44.3 (Skin of other and unspecified parts of face - Malignant neoplasms); C44.4 (Skin of scalp and neck - Malignant"
+"neoplasms); C44.5 (Skin of trunk - Malignant neoplasms); C44.6 (Skin of upper limb, including shoulder - Malignant neoplasms);"
+"C44.7 (Skin of lower limb, including hip - Malignant neoplasms); C44.8 (Overlapping lesion of skin - Malignant neoplasms); C44.9"
+"(Malignant neoplasm of skin, unspecified - Malignant neoplasms); C45.0 (Mesothelioma of pleura - Malignant neoplasms); C45.1"
+"(Mesothelioma of peritoneum - Malignant neoplasms); C45.2 (Mesothelioma of pericardium - Malignant neoplasms); C45.7"
+"(Mesothelioma of other sites - Malignant neoplasms); C45.9 (Mesothelioma, unspecified - Malignant neoplasms); C46.0 (Kaposi"
+"sarcoma of skin); C46.1 (Kaposi sarcoma of soft tissue); C46.2 (Kaposi sarcoma of palate); C46.3 (Kaposi sarcoma of lymph"
+"nodes); C46.7 (Kaposi sarcoma of other sites); C46.8 (Kaposi sarcoma of multiple organs); C46.9 (Kaposi sarcoma, unspecified);"
+"C47.0 (Peripheral nerves of head, face and neck - Malignant neoplasms); C47.1 (Peripheral nerves of upper limb, including"
+"shoulder - Malignant neoplasms); C47.2 (Peripheral nerves of lower limb, including hip - Malignant neoplasms); C47.3 (Peripheral"
+"nerves of thorax - Malignant neoplasms); C47.4 (Peripheral nerves of abdomen - Malignant neoplasms); C47.5 (Peripheral nerves of"
+"pelvis - Malignant neoplasms); C47.6 (Peripheral nerves of trunk, unspecified - Malignant neoplasms); C47.8 (Overlapping lesion"
+"of peripheral nerves and autonomic nervous system - Malignant neoplasms); C47.9 (Peripheral nerves and autonomic nervous system,"
+"unspecified - Malignant neoplasms); C48.0 (Retroperitoneum - Malignant neoplasms); C48.1 (Specified parts of peritoneum -"
+"Malignant neoplasms); C48.2 (Peritoneum, unspecified - Malignant neoplasms); C48.8 (Overlapping lesion of retroperitoneum and"
+"peritoneum - Malignant neoplasms); C49.0 (Connective and soft tissue of head, face and neck - Malignant neoplasms); C49.1"
+"(Connective and soft tissue of upper limb, including shoulder - Malignant neoplasms); C49.2 (Connective and soft tissue of lower"
+"limb, including hip - Malignant neoplasms); C49.3 (Connective and soft tissue of thorax - Malignant neoplasms); C49.4"
+"(Connective and soft tissue of abdomen - Malignant neoplasms); C49.5 (Connective and soft tissue of pelvis - Malignant"
+"neoplasms); C49.6 (Connective and soft tissue of trunk, unspecified - Malignant neoplasms); C49.8 (Overlapping lesion of"
+"connective and soft tissue - Malignant neoplasms); C49.9 (Connective and soft tissue, unspecified - Malignant neoplasms); C50.0"
+"(Nipple and areola - Malignant neoplasms); C50.1 (Central portion of breast - Malignant neoplasms); C50.2 (Upper-inner quadrant"
+"of breast - Malignant neoplasms); C50.3 (Lower-inner quadrant of breast - Malignant neoplasms); C50.4 (Upper-outer quadrant of"
+"breast - Malignant neoplasms); C50.5 (Lower-outer quadrant of breast - Malignant neoplasms); C50.6 (Axillary tail of breast -"
+"Malignant neoplasms); C50.8 (Overlapping lesion of breast - Malignant neoplasms); C50.9 (Breast, unspecified - Malignant"
+"neoplasms); C51.0 (Labium majus - Malignant neoplasms); C51.1 (Labium minus - Malignant neoplasms); C51.2 (Clitoris - Malignant"
+"neoplasms); C51.8 (Overlapping lesion of vulva - Malignant neoplasms); C51.9 (Vulva, unspecified - Malignant neoplasms); C52"
+"(Malignant neoplasm of vagina); C53.0 (Endocervix - Malignant neoplasms); C53.1 (Exocervix - Malignant neoplasms); C53.8"
+"(Overlapping lesion of cervix uteri - Malignant neoplasms); C53.9 (Cervix uteri, unspecified - Malignant neoplasms); C54.0"
+"(Isthmus uteri - Malignant neoplasms); C54.1 (Endometrium - Malignant neoplasms); C54.2 (Myometrium - Malignant neoplasms);"
+"C54.3 (Fundus uteri - Malignant neoplasms); C54.8 (Overlapping lesion of corpus uteri - Malignant neoplasms); C54.9 (Corpus"
+"uteri, unspecified - Malignant neoplasms); C55 (Malignant neoplasm of uterus, part unspecified); C56 (Malignant neoplasm of"
+"ovary); C57.0 (Fallopian tube - Malignant neoplasms); C57.1 (Broad ligament - Malignant neoplasms); C57.2 (Round ligament -"
+"Malignant neoplasms); C57.3 (Parametrium - Malignant neoplasms); C57.4 (Uterine adnexa, unspecified - Malignant neoplasms);"
+"C57.7 (Other specified female genital organs - Malignant neoplasms); C57.8 (Overlapping lesion of female genital organs -"
+"Malignant neoplasms); C57.9 (Female genital organ, unspecified - Malignant neoplasms); C58 (Malignant neoplasm of placenta);"
+"C60.0 (Prepuce - Malignant neoplasms); C60.1 (Glans penis - Malignant neoplasms); C60.2 (Body of penis - Malignant neoplasms);"
+"C60.8 (Overlapping lesion of penis - Malignant neoplasms); C60.9 (Penis, unspecified - Malignant neoplasms); C61 (Malignant"
+"neoplasm of prostate); C62.0 (Undescended testis - Malignant neoplasms); C62.1 (Descended testis - Malignant neoplasms); C62.9"
+"(Testis, unspecified - Malignant neoplasms); C63.0 (Epididymis - Malignant neoplasms); C63.1 (Spermatic cord - Malignant"
+"neoplasms); C63.2 (Scrotum - Malignant neoplasms); C63.7 (Other specified male genital organs - Malignant neoplasms); C63.8"
+"(Overlapping lesion of male genital organs - Malignant neoplasms); C63.9 (Male genital organ, unspecified - Malignant"
+"neoplasms); C64 (Malignant neoplasm of kidney, except renal pelvis); C65 (Malignant neoplasm of renal pelvis); C66 (Malignant"
+"neoplasm of ureter); C67.0 (Trigone of bladder - Malignant neoplasms); C67.1 (Dome of bladder - Malignant neoplasms); C67.2"
+"(Lateral wall of bladder - Malignant neoplasms); C67.3 (Anterior wall of bladder - Malignant neoplasms); C67.4 (Posterior wall"
+"of bladder - Malignant neoplasms); C67.5 (Bladder neck - Malignant neoplasms); C67.6 (Ureteric orifice - Malignant neoplasms);"
+"C67.7 (Urachus - Malignant neoplasms); C67.8 (Overlapping lesion of bladder - Malignant neoplasms); C67.9 (Bladder, unspecified"
+"- Malignant neoplasms); C68.0 (Urethra - Malignant neoplasms); C68.1 (Paraurethral gland - Malignant neoplasms); C68.8"
+"(Overlapping lesion of urinary organs - Malignant neoplasms); C68.9 (Urinary organ, unspecified - Malignant neoplasms); C69.0"
+"(Conjunctiva - Malignant neoplasms); C69.1 (Cornea - Malignant neoplasms); C69.2 (Retina - Malignant neoplasms); C69.3 (Choroid"
+"- Malignant neoplasms); C69.4 (Ciliary body - Malignant neoplasms); C69.5 (Lacrimal gland and duct - Malignant neoplasms); C69.6"
+"(Orbit - Malignant neoplasms); C69.8 (Overlapping lesion of eye and adnexa - Malignant neoplasms); C69.9 (Eye, unspecified -"
+"Malignant neoplasms); C70.0 (Cerebral meninges - Malignant neoplasms); C70.1 (Spinal meninges - Malignant neoplasms); C70.9"
+"(Meninges, unspecified - Malignant neoplasms); C71.0 (Cerebrum, except lobes and ventricles - Malignant neoplasms); C71.1"
+"(Frontal lobe - Malignant neoplasms); C71.2 (Temporal lobe - Malignant neoplasms); C71.3 (Parietal lobe - Malignant neoplasms);"
+"C71.4 (Occipital lobe - Malignant neoplasms); C71.5 (Cerebral ventricle - Malignant neoplasms); C71.6 (Cerebellum - Malignant"
+"neoplasms); C71.7 (Brain stem - Malignant neoplasms); C71.8 (Overlapping lesion of brain - Malignant neoplasms); C71.9 (Brain,"
+"unspecified - Malignant neoplasms); C72.0 (Spinal cord - Malignant neoplasms); C72.1 (Cauda equina - Malignant neoplasms); C72.2"
+"(Olfactory nerve - Malignant neoplasms); C72.3 (Optic nerve - Malignant neoplasms); C72.4 (Acoustic nerve - Malignant"
+"neoplasms); C72.5 (Other and unspecified cranial nerves - Malignant neoplasms); C72.8 (Overlapping lesion of brain and other"
+"parts of central nervous system - Malignant neoplasms); C72.9 (Central nervous system, unspecified - Malignant neoplasms); C73"
+"(Malignant neoplasm of thyroid gland); C74.0 (Cortex of adrenal gland - Malignant neoplasms); C74.1 (Medulla of adrenal gland -"
+"Malignant neoplasms); C74.9 (Adrenal gland, unspecified - Malignant neoplasms); C75.0 (Parathyroid gland - Malignant neoplasms);"
+"C75.1 (Pituitary gland - Malignant neoplasms); C75.2 (Craniopharyngeal duct - Malignant neoplasms); C75.3 (Pineal gland -"
+"Malignant neoplasms); C75.4 (Carotid body - Malignant neoplasms); C75.5 (Aortic body and other paraganglia - Malignant"
+"neoplasms); C75.8 (Pluriglandular involvement, unspecified - Malignant neoplasms); C75.9 (Endocrine gland, unspecified -"
+"Malignant neoplasms); C76.0 (Head, face and neck - Malignant neoplasms); C76.1 (Thorax - Malignant neoplasms); C76.2 (Abdomen -"
+"Malignant neoplasms); C76.3 (Pelvis - Malignant neoplasms); C76.4 (Upper limb - Malignant neoplasms); C76.5 (Lower limb -"
+"Malignant neoplasms); C76.7 (Other ill-defined sites - Malignant neoplasms); C76.8 (Overlapping lesion of other and ill-defined"
+"sites - Malignant neoplasms); C77.0 (Lymph nodes of head, face and neck - Malignant neoplasms); C77.1 (Intrathoracic lymph nodes"
+"- Malignant neoplasms); C77.2 (Intra-abdominal lymph nodes - Malignant neoplasms); C77.3 (Axillary and upper limb lymph nodes -"
+"Malignant neoplasms); C77.4 (Inguinal and lower limb lymph nodes - Malignant neoplasms); C77.5 (Intrapelvic lymph nodes -"
+"Malignant neoplasms); C77.8 (Lymph nodes of multiple regions - Malignant neoplasms); C77.9 (Lymph node, unspecified - Malignant"
+"neoplasms); C78.0 (Secondary malignant neoplasm of lung - Malignant neoplasms); C78.1 (Secondary malignant neoplasm of"
+"mediastinum - Malignant neoplasms); C78.2 (Secondary malignant neoplasm of pleura - Malignant neoplasms); C78.3 (Secondary"
+"malignant neoplasm of other and unspecified respiratory organs - Malignant neoplasms); C78.4 (Secondary malignant neoplasm of"
+"small intestine - Malignant neoplasms); C78.5 (Secondary malignant neoplasm of large intestine and rectum - Malignant"
+"neoplasms); C78.6 (Secondary malignant neoplasm of retroperitoneum and peritoneum - Malignant neoplasms); C78.7 (Secondary"
+"malignant neoplasm of liver - Malignant neoplasms); C78.8 (Secondary malignant neoplasm of other and unspecified digestive"
+"organs - Malignant neoplasms); C79.0 (Secondary malignant neoplasm of kidney and renal pelvis - Malignant neoplasms); C79.1"
+"(Secondary malignant neoplasm of bladder and other and unspecified urinary organs - Malignant neoplasms); C79.2 (Secondary"
+"malignant neoplasm of skin - Malignant neoplasms); C79.3 (Secondary malignant neoplasm of brain and cerebral meninges -"
+"Malignant neoplasms); C79.4 (Secondary malignant neoplasm of other and unspecified parts of nervous system - Malignant"
+"neoplasms); C79.5 (Secondary malignant neoplasm of bone and bone marrow - Malignant neoplasms); C79.6 (Secondary malignant"
+"neoplasm of ovary - Malignant neoplasms); C79.7 (Secondary malignant neoplasm of adrenal gland - Malignant neoplasms); C79.8"
+"(Secondary malignant neoplasm of other specified sites - Malignant neoplasms); C80 (Malignant neoplasm without specification of"
+"site); C97 (Malignant neoplasms of independent (primary) multiple sites)"
+"Group By: Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 14, 2026 3:21:18 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 14, 2026 3:21:18 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"7. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"8. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

@@ -1,0 +1,327 @@
+"Notes","Year","Year Code","Ten-Year Age Groups","Ten-Year Age Groups Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error,% of Total Deaths
+,"2018","2018","< 1 year","1","Female","F",24,1879703,1.3,0.8,1.9,0.3,0.0%
+,"2018","2018","< 1 year","1","Male","M",27,1968505,1.4,0.9,2.0,0.3,0.0%
+"Total","2018","2018","< 1 year","1",,,51,3848208,1.3,1.0,1.7,0.2,0.0%
+,"2018","2018","1-4 years","1-4","Female","F",143,7798370,1.8,1.5,2.1,0.2,0.0%
+,"2018","2018","1-4 years","1-4","Male","M",183,8163697,2.2,1.9,2.6,0.2,0.0%
+"Total","2018","2018","1-4 years","1-4",,,326,15962067,2.0,1.8,2.3,0.1,0.0%
+,"2018","2018","5-14 years","5-14","Female","F",395,20100339,2.0,1.8,2.2,0.1,0.0%
+,"2018","2018","5-14 years","5-14","Male","M",448,20974830,2.1,1.9,2.3,0.1,0.0%
+"Total","2018","2018","5-14 years","5-14",,,843,41075169,2.1,1.9,2.2,0.1,0.0%
+,"2018","2018","15-24 years","15-24","Female","F",516,20994345,2.5,2.2,2.7,0.1,0.0%
+,"2018","2018","15-24 years","15-24","Male","M",855,21976455,3.9,3.6,4.2,0.1,0.0%
+"Total","2018","2018","15-24 years","15-24",,,1371,42970800,3.2,3.0,3.4,0.1,0.0%
+,"2018","2018","25-34 years","25-34","Female","F",1946,22487065,8.7,8.3,9.0,0.2,0.0%
+,"2018","2018","25-34 years","25-34","Male","M",1738,23210709,7.5,7.1,7.8,0.2,0.0%
+"Total","2018","2018","25-34 years","25-34",,,3684,45697774,8.1,7.8,8.3,0.1,0.1%
+,"2018","2018","35-44 years","35-44","Female","F",6084,20690288,29.4,28.7,30.1,0.4,0.1%
+,"2018","2018","35-44 years","35-44","Male","M",4556,20587600,22.1,21.5,22.8,0.3,0.1%
+"Total","2018","2018","35-44 years","35-44",,,10640,41277888,25.8,25.3,26.3,0.2,0.3%
+,"2018","2018","45-54 years","45-54","Female","F",19388,21090497,91.9,90.6,93.2,0.7,0.5%
+,"2018","2018","45-54 years","45-54","Male","M",17913,20541202,87.2,85.9,88.5,0.7,0.4%
+"Total","2018","2018","45-54 years","45-54",,,37301,41631699,89.6,88.7,90.5,0.5,0.9%
+,"2018","2018","55-64 years","55-64","Female","F",52058,21873773,238.0,235.9,240.0,1.0,1.2%
+,"2018","2018","55-64 years","55-64","Male","M",61889,20398863,303.4,301.0,305.8,1.2,1.5%
+"Total","2018","2018","55-64 years","55-64",,,113947,42272636,269.6,268.0,271.1,0.8,2.7%
+,"2018","2018","65-74 years","65-74","Female","F",75739,16246231,466.2,462.9,469.5,1.7,1.8%
+,"2018","2018","65-74 years","65-74","Male","M",93317,14246085,655.0,650.8,659.2,2.1,2.2%
+"Total","2018","2018","65-74 years","65-74",,,169056,30492316,554.4,551.8,557.1,1.3,4.0%
+,"2018","2018","75-84 years","75-84","Female","F",74047,8659334,855.1,849.0,861.3,3.1,1.7%
+,"2018","2018","75-84 years","75-84","Male","M",84747,6735040,1258.3,1249.8,1266.8,4.3,2.0%
+"Total","2018","2018","75-84 years","75-84",,,158794,15394374,1031.5,1026.4,1036.6,2.6,3.7%
+,"2018","2018","85+ years","85+","Female","F",53378,4218810,1265.2,1254.5,1276.0,5.5,1.3%
+,"2018","2018","85+ years","85+","Male","M",49874,2325693,2144.5,2125.7,2163.3,9.6,1.2%
+"Total","2018","2018","85+ years","85+",,,103252,6544503,1577.7,1568.1,1587.3,4.9,2.4%
+,"2018","2018","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2018","2018","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2018","2018","Not Stated","NS",,,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2018","2018",,,,,599274,327167434,183.2,182.7,183.6,0.2,14.1%
+,"2019","2019","< 1 year","1","Female","F",23,1847935,1.2,0.8,1.9,0.3,0.0%
+,"2019","2019","< 1 year","1","Male","M",32,1935117,1.7,1.1,2.3,0.3,0.0%
+"Total","2019","2019","< 1 year","1",,,55,3783052,1.5,1.1,1.9,0.2,0.0%
+,"2019","2019","1-4 years","1-4","Female","F",135,7719541,1.7,1.5,2.0,0.2,0.0%
+,"2019","2019","1-4 years","1-4","Male","M",150,8074090,1.9,1.6,2.2,0.2,0.0%
+"Total","2019","2019","1-4 years","1-4",,,285,15793631,1.8,1.6,2.0,0.1,0.0%
+,"2019","2019","5-14 years","5-14","Female","F",361,20053140,1.8,1.6,2.0,0.1,0.0%
+,"2019","2019","5-14 years","5-14","Male","M",414,20941023,2.0,1.8,2.2,0.1,0.0%
+"Total","2019","2019","5-14 years","5-14",,,775,40994163,1.9,1.8,2.0,0.1,0.0%
+,"2019","2019","15-24 years","15-24","Female","F",561,20877151,2.7,2.5,2.9,0.1,0.0%
+,"2019","2019","15-24 years","15-24","Male","M",827,21810359,3.8,3.5,4.1,0.1,0.0%
+"Total","2019","2019","15-24 years","15-24",,,1388,42687510,3.3,3.1,3.4,0.1,0.0%
+,"2019","2019","25-34 years","25-34","Female","F",1833,22581141,8.1,7.7,8.5,0.2,0.0%
+,"2019","2019","25-34 years","25-34","Male","M",1744,23359180,7.5,7.1,7.8,0.2,0.0%
+"Total","2019","2019","25-34 years","25-34",,,3577,45940321,7.8,7.5,8.0,0.1,0.1%
+,"2019","2019","35-44 years","35-44","Female","F",6174,20867064,29.6,28.8,30.3,0.4,0.1%
+,"2019","2019","35-44 years","35-44","Male","M",4521,20792080,21.7,21.1,22.4,0.3,0.1%
+"Total","2019","2019","35-44 years","35-44",,,10695,41659144,25.7,25.2,26.2,0.2,0.3%
+,"2019","2019","45-54 years","45-54","Female","F",18529,20702936,89.5,88.2,90.8,0.7,0.4%
+,"2019","2019","45-54 years","45-54","Male","M",17058,20171966,84.6,83.3,85.8,0.6,0.4%
+"Total","2019","2019","45-54 years","45-54",,,35587,40874902,87.1,86.2,88.0,0.5,0.8%
+,"2019","2019","55-64 years","55-64","Female","F",51380,21949318,234.1,232.1,236.1,1.0,1.2%
+,"2019","2019","55-64 years","55-64","Male","M",60385,20499219,294.6,292.2,296.9,1.2,1.4%
+"Total","2019","2019","55-64 years","55-64",,,111765,42448537,263.3,261.8,264.8,0.8,2.6%
+,"2019","2019","65-74 years","65-74","Female","F",76440,16783854,455.4,452.2,458.7,1.6,1.8%
+,"2019","2019","65-74 years","65-74","Male","M",94622,14699579,643.7,639.6,647.8,2.1,2.2%
+"Total","2019","2019","65-74 years","65-74",,,171062,31483433,543.3,540.8,545.9,1.3,4.0%
+,"2019","2019","75-84 years","75-84","Female","F",74391,8971649,829.2,823.2,835.1,3.0,1.8%
+,"2019","2019","75-84 years","75-84","Male","M",86248,6998223,1232.4,1224.2,1240.7,4.2,2.0%
+"Total","2019","2019","75-84 years","75-84",,,160639,15969872,1005.9,1001.0,1010.8,2.5,3.8%
+,"2019","2019","85+ years","85+","Female","F",53895,4228470,1274.6,1263.8,1285.3,5.5,1.3%
+,"2019","2019","85+ years","85+","Male","M",49866,2376488,2098.3,2079.9,2116.7,9.4,1.2%
+"Total","2019","2019","85+ years","85+",,,103761,6604958,1571.0,1561.4,1580.5,4.9,2.4%
+,"2019","2019","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2019","2019","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2019","2019","Not Stated","NS",,,12,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,0.0%
+"Total","2019","2019",,,,,599601,328239523,182.7,182.2,183.1,0.2,14.1%
+,"2020","2020","< 1 year","1","Female","F",32,1826869,1.8,1.2,2.5,0.3,0.0%
+,"2020","2020","< 1 year","1","Male","M",22,1908141,1.2,0.7,1.7,0.2,0.0%
+"Total","2020","2020","< 1 year","1",,,54,3735010,1.4,1.1,1.9,0.2,0.0%
+,"2020","2020","1-4 years","1-4","Female","F",148,7613266,1.9,1.6,2.3,0.2,0.0%
+,"2020","2020","1-4 years","1-4","Male","M",159,7953016,2.0,1.7,2.3,0.2,0.0%
+"Total","2020","2020","1-4 years","1-4",,,307,15566282,2.0,1.8,2.2,0.1,0.0%
+,"2020","2020","5-14 years","5-14","Female","F",370,20050413,1.8,1.7,2.0,0.1,0.0%
+,"2020","2020","5-14 years","5-14","Male","M",422,20941721,2.0,1.8,2.2,0.1,0.0%
+"Total","2020","2020","5-14 years","5-14",,,792,40992134,1.9,1.8,2.1,0.1,0.0%
+,"2020","2020","15-24 years","15-24","Female","F",532,20828241,2.6,2.3,2.8,0.1,0.0%
+,"2020","2020","15-24 years","15-24","Male","M",774,21727443,3.6,3.3,3.8,0.1,0.0%
+"Total","2020","2020","15-24 years","15-24",,,1306,42555684,3.1,2.9,3.2,0.1,0.0%
+,"2020","2020","25-34 years","25-34","Female","F",1866,22625267,8.2,7.9,8.6,0.2,0.0%
+,"2020","2020","25-34 years","25-34","Male","M",1707,23444379,7.3,6.9,7.6,0.2,0.0%
+"Total","2020","2020","25-34 years","25-34",,,3573,46069646,7.8,7.5,8.0,0.1,0.1%
+,"2020","2020","35-44 years","35-44","Female","F",6023,21090324,28.6,27.8,29.3,0.4,0.1%
+,"2020","2020","35-44 years","35-44","Male","M",4707,21045868,22.4,21.7,23.0,0.3,0.1%
+"Total","2020","2020","35-44 years","35-44",,,10730,42136192,25.5,25.0,25.9,0.2,0.3%
+,"2020","2020","45-54 years","45-54","Female","F",18106,20441441,88.6,87.3,89.9,0.7,0.4%
+,"2020","2020","45-54 years","45-54","Male","M",16483,19924692,82.7,81.5,84.0,0.6,0.4%
+"Total","2020","2020","45-54 years","45-54",,,34589,40366133,85.7,84.8,86.6,0.5,0.8%
+,"2020","2020","55-64 years","55-64","Female","F",50831,21914243,232.0,229.9,234.0,1.0,1.2%
+,"2020","2020","55-64 years","55-64","Male","M",59412,20489434,290.0,287.6,292.3,1.2,1.4%
+"Total","2020","2020","55-64 years","55-64",,,110243,42403677,260.0,258.4,261.5,0.8,2.6%
+,"2020","2020","65-74 years","65-74","Female","F",78525,17365858,452.2,449.0,455.3,1.6,1.8%
+,"2020","2020","65-74 years","65-74","Male","M",96939,15183540,638.4,634.4,642.5,2.1,2.3%
+"Total","2020","2020","65-74 years","65-74",,,175464,32549398,539.1,536.5,541.6,1.3,4.1%
+,"2020","2020","75-84 years","75-84","Female","F",75769,9228272,821.1,815.2,826.9,3.0,1.8%
+,"2020","2020","75-84 years","75-84","Male","M",87107,7223275,1205.9,1197.9,1213.9,4.1,2.1%
+"Total","2020","2020","75-84 years","75-84",,,162876,16451547,990.0,985.2,994.8,2.5,3.8%
+,"2020","2020","85+ years","85+","Female","F",52415,4243727,1235.1,1224.5,1245.7,5.4,1.2%
+,"2020","2020","85+ years","85+","Male","M",49998,2414693,2070.6,2052.4,2088.7,9.3,1.2%
+"Total","2020","2020","85+ years","85+",,,102413,6658420,1538.1,1528.7,1547.5,4.8,2.4%
+,"2020","2020","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2020","2020","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2020","2020","Not Stated","NS",,,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2020","2020",,,,,602350,329484123,182.8,182.4,183.3,0.2,14.2%
+,"2021","2021","< 1 year","1","Female","F",22,1742991,1.3,0.8,1.9,0.3,0.0%
+,"2021","2021","< 1 year","1","Male","M",30,1821502,1.6,1.1,2.4,0.3,0.0%
+"Total","2021","2021","< 1 year","1",,,52,3564493,1.5,1.1,1.9,0.2,0.0%
+,"2021","2021","1-4 years","1-4","Female","F",127,7459995,1.7,1.4,2.0,0.2,0.0%
+,"2021","2021","1-4 years","1-4","Male","M",155,7802850,2.0,1.7,2.3,0.2,0.0%
+"Total","2021","2021","1-4 years","1-4",,,282,15262845,1.8,1.6,2.1,0.1,0.0%
+,"2021","2021","5-14 years","5-14","Female","F",351,20374951,1.7,1.5,1.9,0.1,0.0%
+,"2021","2021","5-14 years","5-14","Male","M",445,21364381,2.1,1.9,2.3,0.1,0.0%
+"Total","2021","2021","5-14 years","5-14",,,796,41739332,1.9,1.8,2.0,0.1,0.0%
+,"2021","2021","15-24 years","15-24","Female","F",492,21092449,2.3,2.1,2.5,0.1,0.0%
+,"2021","2021","15-24 years","15-24","Male","M",831,21996214,3.8,3.5,4.0,0.1,0.0%
+"Total","2021","2021","15-24 years","15-24",,,1323,43088663,3.1,2.9,3.2,0.1,0.0%
+,"2021","2021","25-34 years","25-34","Female","F",1852,22441743,8.3,7.9,8.6,0.2,0.0%
+,"2021","2021","25-34 years","25-34","Male","M",1763,23053362,7.6,7.3,8.0,0.2,0.0%
+"Total","2021","2021","25-34 years","25-34",,,3615,45495105,7.9,7.7,8.2,0.1,0.1%
+,"2021","2021","35-44 years","35-44","Female","F",6396,21546241,29.7,29.0,30.4,0.4,0.2%
+,"2021","2021","35-44 years","35-44","Male","M",4798,21857613,22.0,21.3,22.6,0.3,0.1%
+"Total","2021","2021","35-44 years","35-44",,,11194,43403854,25.8,25.3,26.3,0.2,0.3%
+,"2021","2021","45-54 years","45-54","Female","F",17684,20376477,86.8,85.5,88.1,0.7,0.4%
+,"2021","2021","45-54 years","45-54","Male","M",15883,20311959,78.2,77.0,79.4,0.6,0.4%
+"Total","2021","2021","45-54 years","45-54",,,33567,40688436,82.5,81.6,83.4,0.5,0.8%
+,"2021","2021","55-64 years","55-64","Female","F",50122,21839746,229.5,227.5,231.5,1.0,1.2%
+,"2021","2021","55-64 years","55-64","Male","M",57901,20963318,276.2,274.0,278.5,1.1,1.4%
+"Total","2021","2021","55-64 years","55-64",,,108023,42803064,252.4,250.9,253.9,0.8,2.5%
+,"2021","2021","65-74 years","65-74","Female","F",80233,17797036,450.8,447.7,453.9,1.6,1.9%
+,"2021","2021","65-74 years","65-74","Male","M",98912,15869086,623.3,619.4,627.2,2.0,2.3%
+"Total","2021","2021","65-74 years","65-74",,,179145,33666122,532.1,529.7,534.6,1.3,4.2%
+,"2021","2021","75-84 years","75-84","Female","F",76851,9037561,850.4,844.3,856.4,3.1,1.8%
+,"2021","2021","75-84 years","75-84","Male","M",87999,7168514,1227.6,1219.5,1235.7,4.1,2.1%
+"Total","2021","2021","75-84 years","75-84",,,164850,16206075,1017.2,1012.3,1022.1,2.5,3.9%
+,"2021","2021","85+ years","85+","Female","F",52410,3799813,1379.3,1367.5,1391.1,6.0,1.2%
+,"2021","2021","85+ years","85+","Male","M",49949,2175943,2295.5,2275.4,2315.6,10.3,1.2%
+"Total","2021","2021","85+ years","85+",,,102359,5975756,1712.9,1702.4,1723.4,5.4,2.4%
+,"2021","2021","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2021","2021","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2021","2021","Not Stated","NS",,,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2021","2021",,,,,605213,331893745,182.4,181.9,182.8,0.2,14.2%
+,"2022","2022","< 1 year","1","Female","F",27,1800246,1.5,1.0,2.2,0.3,0.0%
+,"2022","2022","< 1 year","1","Male","M",13,1882867,0.7,0.4,1.2,0.2,0.0%
+"Total","2022","2022","< 1 year","1",,,40,3683113,1.1,0.8,1.5,0.2,0.0%
+,"2022","2022","1-4 years","1-4","Female","F",140,7263012,1.9,1.6,2.2,0.2,0.0%
+,"2022","2022","1-4 years","1-4","Male","M",126,7592228,1.7,1.4,1.9,0.1,0.0%
+"Total","2022","2022","1-4 years","1-4",,,266,14855240,1.8,1.6,2.0,0.1,0.0%
+,"2022","2022","5-14 years","5-14","Female","F",376,19965235,1.9,1.7,2.1,0.1,0.0%
+,"2022","2022","5-14 years","5-14","Male","M",459,20933799,2.2,2.0,2.4,0.1,0.0%
+"Total","2022","2022","5-14 years","5-14",,,835,40899034,2.0,1.9,2.2,0.1,0.0%
+,"2022","2022","15-24 years","15-24","Female","F",571,21657540,2.6,2.4,2.9,0.1,0.0%
+,"2022","2022","15-24 years","15-24","Male","M",850,22684031,3.7,3.5,4.0,0.1,0.0%
+"Total","2022","2022","15-24 years","15-24",,,1421,44341571,3.2,3.0,3.4,0.1,0.0%
+,"2022","2022","25-34 years","25-34","Female","F",1812,22311738,8.1,7.7,8.5,0.2,0.0%
+,"2022","2022","25-34 years","25-34","Male","M",1829,23189562,7.9,7.5,8.2,0.2,0.0%
+"Total","2022","2022","25-34 years","25-34",,,3641,45501300,8.0,7.7,8.3,0.1,0.1%
+,"2022","2022","35-44 years","35-44","Female","F",6340,21575176,29.4,28.7,30.1,0.4,0.1%
+,"2022","2022","35-44 years","35-44","Male","M",4837,22120189,21.9,21.3,22.5,0.3,0.1%
+"Total","2022","2022","35-44 years","35-44",,,11177,43695365,25.6,25.1,26.1,0.2,0.3%
+,"2022","2022","45-54 years","45-54","Female","F",17343,20152015,86.1,84.8,87.3,0.7,0.4%
+,"2022","2022","45-54 years","45-54","Male","M",16020,20279630,79.0,77.8,80.2,0.6,0.4%
+"Total","2022","2022","45-54 years","45-54",,,33363,40431645,82.5,81.6,83.4,0.5,0.8%
+,"2022","2022","55-64 years","55-64","Female","F",49202,21413534,229.8,227.7,231.8,1.0,1.2%
+,"2022","2022","55-64 years","55-64","Male","M",55931,20671903,270.6,268.3,272.8,1.1,1.3%
+"Total","2022","2022","55-64 years","55-64",,,105133,42085437,249.8,248.3,251.3,0.8,2.5%
+,"2022","2022","65-74 years","65-74","Female","F",80446,17877767,450.0,446.9,453.1,1.6,1.9%
+,"2022","2022","65-74 years","65-74","Male","M",98414,15910672,618.5,614.7,622.4,2.0,2.3%
+"Total","2022","2022","65-74 years","65-74",,,178860,33788439,529.4,526.9,531.8,1.3,4.2%
+,"2022","2022","75-84 years","75-84","Female","F",80280,9785700,820.4,814.7,826.1,2.9,1.9%
+,"2022","2022","75-84 years","75-84","Male","M",91293,7734845,1180.3,1172.6,1187.9,3.9,2.1%
+"Total","2022","2022","75-84 years","75-84",,,171573,17520545,979.3,974.6,983.9,2.4,4.0%
+,"2022","2022","85+ years","85+","Female","F",52497,4202041,1249.3,1238.6,1260.0,5.5,1.2%
+,"2022","2022","85+ years","85+","Male","M",49560,2283827,2170.0,2150.9,2189.1,9.7,1.2%
+"Total","2022","2022","85+ years","85+",,,102057,6485868,1573.5,1563.9,1583.2,4.9,2.4%
+,"2022","2022","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2022","2022","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2022","2022","Not Stated","NS",,,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2022","2022",,,,,608371,333287557,182.5,182.1,183.0,0.2,14.3%
+,"2023","2023","< 1 year","1","Female","F",18,1784146,1.0,0.6,1.6,0.2,0.0%
+,"2023","2023","< 1 year","1","Male","M",29,1864508,1.6,1.0,2.2,0.3,0.0%
+"Total","2023","2023","< 1 year","1",,,47,3648654,1.3,0.9,1.7,0.2,0.0%
+,"2023","2023","1-4 years","1-4","Female","F",123,7267615,1.7,1.4,2.0,0.2,0.0%
+,"2023","2023","1-4 years","1-4","Male","M",146,7594891,1.9,1.6,2.2,0.2,0.0%
+"Total","2023","2023","1-4 years","1-4",,,269,14862506,1.8,1.6,2.0,0.1,0.0%
+,"2023","2023","5-14 years","5-14","Female","F",424,20014683,2.1,1.9,2.3,0.1,0.0%
+,"2023","2023","5-14 years","5-14","Male","M",426,20972638,2.0,1.8,2.2,0.1,0.0%
+"Total","2023","2023","5-14 years","5-14",,,850,40987321,2.1,1.9,2.2,0.1,0.0%
+,"2023","2023","15-24 years","15-24","Female","F",604,21463206,2.8,2.6,3.0,0.1,0.0%
+,"2023","2023","15-24 years","15-24","Male","M",859,22423446,3.8,3.6,4.1,0.1,0.0%
+"Total","2023","2023","15-24 years","15-24",,,1463,43886652,3.3,3.2,3.5,0.1,0.0%
+,"2023","2023","25-34 years","25-34","Female","F",1732,22483329,7.7,7.3,8.1,0.2,0.0%
+,"2023","2023","25-34 years","25-34","Male","M",1771,23059187,7.7,7.3,8.0,0.2,0.0%
+"Total","2023","2023","25-34 years","25-34",,,3503,45542516,7.7,7.4,7.9,0.1,0.1%
+,"2023","2023","35-44 years","35-44","Female","F",6368,22028457,28.9,28.2,29.6,0.4,0.1%
+,"2023","2023","35-44 years","35-44","Male","M",4923,22362236,22.0,21.4,22.6,0.3,0.1%
+"Total","2023","2023","35-44 years","35-44",,,11291,44390693,25.4,25.0,25.9,0.2,0.3%
+,"2023","2023","45-54 years","45-54","Female","F",17155,20306672,84.5,83.2,85.7,0.6,0.4%
+,"2023","2023","45-54 years","45-54","Male","M",15712,20187109,77.8,76.6,79.0,0.6,0.4%
+"Total","2023","2023","45-54 years","45-54",,,32867,40493781,81.2,80.3,82.0,0.4,0.8%
+,"2023","2023","55-64 years","55-64","Female","F",47672,21350566,223.3,221.3,225.3,1.0,1.1%
+,"2023","2023","55-64 years","55-64","Male","M",54042,20503845,263.6,261.3,265.8,1.1,1.3%
+"Total","2023","2023","55-64 years","55-64",,,101714,41854411,243.0,241.5,244.5,0.8,2.4%
+,"2023","2023","65-74 years","65-74","Female","F",81517,18350204,444.2,441.2,447.3,1.6,1.9%
+,"2023","2023","65-74 years","65-74","Male","M",99173,16335080,607.1,603.3,610.9,1.9,2.3%
+"Total","2023","2023","65-74 years","65-74",,,180690,34685284,520.9,518.5,523.3,1.2,4.3%
+,"2023","2023","75-84 years","75-84","Female","F",82956,10205598,812.8,807.3,818.4,2.8,2.0%
+,"2023","2023","75-84 years","75-84","Male","M",94860,8162499,1162.1,1154.7,1169.5,3.8,2.2%
+"Total","2023","2023","75-84 years","75-84",,,177816,18368097,968.1,963.6,972.6,2.3,4.2%
+,"2023","2023","85+ years","85+","Female","F",52690,3911019,1347.2,1335.7,1358.7,5.9,1.2%
+,"2023","2023","85+ years","85+","Male","M",50149,2283961,2195.7,2176.5,2214.9,9.8,1.2%
+"Total","2023","2023","85+ years","85+",,,102839,6194980,1660.0,1649.9,1670.2,5.2,2.4%
+,"2023","2023","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2023","2023","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2023","2023","Not Stated","NS",,,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2023","2023",,,,,613352,334914895,183.1,182.7,183.6,0.2,14.4%
+,"2024 ","2024","< 1 year","1","Female","F",20,1768890,1.1,0.7,1.7,0.3,0.0%
+,"2024 ","2024","< 1 year","1","Male","M",24,1846708,1.3,0.8,1.9,0.3,0.0%
+"Total","2024 ","2024","< 1 year","1",,,44,3615598,1.2,0.9,1.6,0.2,0.0%
+,"2024 ","2024","1-4 years","1-4","Female","F",130,7329381,1.8,1.5,2.1,0.2,0.0%
+,"2024 ","2024","1-4 years","1-4","Male","M",148,7654335,1.9,1.6,2.2,0.2,0.0%
+"Total","2024 ","2024","1-4 years","1-4",,,278,14983716,1.9,1.6,2.1,0.1,0.0%
+,"2024 ","2024","5-14 years","5-14","Female","F",381,20078036,1.9,1.7,2.1,0.1,0.0%
+,"2024 ","2024","5-14 years","5-14","Male","M",465,21020790,2.2,2.0,2.4,0.1,0.0%
+"Total","2024 ","2024","5-14 years","5-14",,,846,41098826,2.1,1.9,2.2,0.1,0.0%
+,"2024 ","2024","15-24 years","15-24","Female","F",549,21884177,2.5,2.3,2.7,0.1,0.0%
+,"2024 ","2024","15-24 years","15-24","Male","M",872,22913584,3.8,3.6,4.1,0.1,0.0%
+"Total","2024 ","2024","15-24 years","15-24",,,1421,44797761,3.2,3.0,3.3,0.1,0.0%
+,"2024 ","2024","25-34 years","25-34","Female","F",1903,22935413,8.3,7.9,8.7,0.2,0.0%
+,"2024 ","2024","25-34 years","25-34","Male","M",1756,23518451,7.5,7.1,7.8,0.2,0.0%
+"Total","2024 ","2024","25-34 years","25-34",,,3659,46453864,7.9,7.6,8.1,0.1,0.1%
+,"2024 ","2024","35-44 years","35-44","Female","F",6479,22583276,28.7,28.0,29.4,0.4,0.2%
+,"2024 ","2024","35-44 years","35-44","Male","M",5104,22955948,22.2,21.6,22.8,0.3,0.1%
+"Total","2024 ","2024","35-44 years","35-44",,,11583,45539224,25.4,25.0,25.9,0.2,0.3%
+,"2024 ","2024","45-54 years","45-54","Female","F",16863,20457911,82.4,81.2,83.7,0.6,0.4%
+,"2024 ","2024","45-54 years","45-54","Male","M",15588,20322445,76.7,75.5,77.9,0.6,0.4%
+"Total","2024 ","2024","45-54 years","45-54",,,32451,40780356,79.6,78.7,80.4,0.4,0.8%
+,"2024 ","2024","55-64 years","55-64","Female","F",46644,21246717,219.5,217.5,221.5,1.0,1.1%
+,"2024 ","2024","55-64 years","55-64","Male","M",51948,20415008,254.5,252.3,256.6,1.1,1.2%
+"Total","2024 ","2024","55-64 years","55-64",,,98592,41661725,236.6,235.2,238.1,0.8,2.3%
+,"2024 ","2024","65-74 years","65-74","Female","F",81793,18745293,436.3,433.3,439.3,1.5,1.9%
+,"2024 ","2024","65-74 years","65-74","Male","M",99547,16699669,596.1,592.4,599.8,1.9,2.3%
+"Total","2024 ","2024","65-74 years","65-74",,,181340,35444962,511.6,509.3,514.0,1.2,4.3%
+,"2024 ","2024","75-84 years","75-84","Female","F",85300,10722882,795.5,790.2,800.8,2.7,2.0%
+,"2024 ","2024","75-84 years","75-84","Male","M",98362,8576931,1146.8,1139.7,1154.0,3.7,2.3%
+"Total","2024 ","2024","75-84 years","75-84",,,183662,19299813,951.6,947.3,956.0,2.2,4.3%
+,"2024 ","2024","85+ years","85+","Female","F",54006,4021130,1343.1,1331.7,1354.4,5.8,1.3%
+,"2024 ","2024","85+ years","85+","Male","M",51989,2414013,2153.6,2135.1,2172.1,9.4,1.2%
+"Total","2024 ","2024","85+ years","85+",,,105995,6435143,1647.1,1637.2,1657.0,5.1,2.5%
+,"2024 ","2024","Not Stated","NS","Female","F",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+,"2024 ","2024","Not Stated","NS","Male","M",Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2024 ","2024","Not Stated","NS",,,Suppressed,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Suppressed
+"Total","2024 ","2024",,,,,619876,340110988,182.3,181.8,182.7,0.2,14.6%
+"Total",,,,,,,4248037,2325098265,182.7,182.5,182.9,0.1,100.0%
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"UCD - ICD-10 Codes: C00-C97 (Malignant neoplasms)"
+"Group By: Year; Ten-Year Age Groups; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Aug 13, 2026 2:55:58 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Aug 13, 2026 2:55:58 PM"
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Not Stated."
+"3. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"4. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Standard-Errors."
+"5. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"7. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"8. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
