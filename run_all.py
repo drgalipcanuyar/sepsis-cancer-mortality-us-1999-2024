@@ -12,5 +12,5 @@ scripts=[
 ]
 for s in scripts:
     print(f'\n=== Running {s} ===',flush=True)
-    subprocess.run([sys.executable,str(ROOT/'scripts'/s)],check=True,cwd=ROOT)
-print('\nReproducibility analyses completed. See outputs/.')
+    subprocess.run([sys.executable,str(ROOT/s)],check=True,cwd=ROOT)
+print('\nReproducibility analyses completed. See the reproduced output files in the repository root.')

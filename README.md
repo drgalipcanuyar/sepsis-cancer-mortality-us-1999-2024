@@ -25,32 +25,19 @@ The final analytic series uses:
 - **2018–2024:** final *Multiple Cause of Death, 2018–2024, Single Race* dataset.
 - **2018–2020:** extracted from both sources for overlap validation only and included once in the analytic series.
 
-All files in `data/raw/` are aggregate CDC WONDER exports. No individual-level or identifiable data are included.
+All CDC WONDER CSV files in the repository root are aggregate exports. No individual-level or identifiable data are included.
 
 ## Repository structure
 
-```text
-.
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── run_all.py
-├── data/
-│   └── raw/
-│       ├── core/                  # Primary A1-A4, annual B-series, pediatric C-series exports
-│       ├── malignancy_class/      # Solid vs hematologic malignancy exports
-│       └── a41/                   # A41-only sensitivity exports
-├── scripts/
-│   ├── common.py
-│   ├── 01_primary_analysis.py
-│   ├── 02_segmented_analysis.py
-│   ├── 03_sensitivity_analysis.py
-│   ├── 04_age_sex_analysis.py
-│   ├── 05_pandemic_covariance_sensitivity.py
-│   ├── 06_a41_sensitivity.py
-│   └── 07_malignancy_class_analysis.py
-└── outputs/                       # Reproduced analysis outputs
-```
+For compatibility with GitHub web upload, this release uses a flat repository layout. Analysis scripts, CDC WONDER aggregate CSV exports, and reproduced output files are stored in the repository root.
+
+Core executable files include:
+
+- `run_all.py`
+- `common.py`
+- `01_primary_analysis.py` through `07_malignancy_class_analysis.py`
+- CDC WONDER aggregate `.csv` exports
+- reproduced result `.csv` and `.txt` files
 
 ## Primary analytic construction
 
@@ -109,7 +96,7 @@ From the repository root, run:
 python run_all.py
 ```
 
-Reproduced files are written to `outputs/`.
+Reproduced output files are written to the repository root, replacing the included validation copies when rerun.
 
 ## Key validation targets
 

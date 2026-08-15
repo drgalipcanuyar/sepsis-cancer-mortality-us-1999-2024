@@ -8,10 +8,9 @@ import statsmodels.api as sm
 from scipy.special import expit
 from scipy import stats
 
-ROOT = Path(__file__).resolve().parents[1]
-CORE = ROOT / 'data' / 'raw' / 'core'
-OUT = ROOT / 'outputs'
-OUT.mkdir(exist_ok=True)
+ROOT = Path(__file__).resolve().parent
+CORE = ROOT
+OUT = ROOT
 
 AGE9 = ["0-14", "15-24", "25-34", "35-44", "45-54", "55-64", "65-74", "75-84", "85+"]
 AGE_MAP = {

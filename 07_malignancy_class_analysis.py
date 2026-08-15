@@ -2,7 +2,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 from common import *
-BASE=ROOT/'data'/'raw'/'malignancy_class'
+BASE=ROOT
 AGE8=['0-24','25-34','35-44','45-54','55-64','65-74','75-84','85+']
 MAP25={'25-34 years':'25-34','35-44 years':'35-44','45-54 years':'45-54','55-64 years':'55-64','65-74 years':'65-74','75-84 years':'75-84','85+ years':'85+'}
 

@@ -2,7 +2,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 from common import *
-A41=ROOT/'data'/'raw'/'a41'
+A41=ROOT
 
 def rd(name):
     try: d=pd.read_csv(A41/name,dtype=str,encoding='utf-8-sig')
